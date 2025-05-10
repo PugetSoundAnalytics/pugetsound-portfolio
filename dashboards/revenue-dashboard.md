@@ -1,4 +1,9 @@
-# Revenue Trend Dashboard (Power BI)
+---
+layout: default
+title: Revenue Dashboard
+---
+
+## Revenue Dashboard
 
 **Business Context:**  
 Monthly business review dashboard designed for executives, showing revenue performance, trends, and year-over-year comparisons.
