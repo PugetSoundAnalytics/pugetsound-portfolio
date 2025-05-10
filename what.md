@@ -5,8 +5,8 @@ title: What
 
 ## My Portfolio
 
-- [HR Dashboard](hr-dashboard)
-- [Marketing Dashboard](marketing-dashboard)
-- [Revenue Dashboard](revenue-dashboard)
+- [HR Dashboard](/dashboards/hr-dashboard)
+- [Marketing Dashboard](/dashboards/marketing-dashboard)
+- [Revenue Dashboard](/dashboards/revenue-dashboard)
 
 Stay tuned—more data magic is coming soon!
