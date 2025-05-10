@@ -3,7 +3,7 @@
 **Business Context:**  
 Monthly business review dashboard designed for executives, showing revenue performance, trends, and year-over-year comparisons.
 
-![Revenue Dashboard Screenshot](revenue-dashboard.png)
+![Revenue Dashboard Screenshot](/assets/images/revenue-dashboard.png)
 
 **Key Metrics:**  
 - Gross Revenue, Net Revenue, Profit Margin
