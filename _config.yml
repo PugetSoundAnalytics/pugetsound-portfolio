@@ -3,4 +3,6 @@ description: Data driven stories, a human way to deliver business insight today 
 
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+
+logo: /assets/PSA.png
