@@ -1,4 +1,11 @@
-# HR Workforce Overview (Power BI with AI)
+---
+layout: default
+title: HR Dashboard
+---
+
+## HR Dashboard
+
+A Power BI dashboard showcasing key HR metrics and visualizations.
 
 **Business Context:**  
 HR analytics dashboard tracking workforce metrics, attrition, DEI initiatives, and team demographics.
