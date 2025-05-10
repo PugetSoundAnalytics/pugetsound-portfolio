@@ -1,21 +1,69 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title | default: site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <link rel="icon" type="image/png" href="{{ site.logo | relative_url }}">
+  <style>
+    header {
+      padding: 20px 0;
+      color: #fff;
+      background-color: #212121;
+    }
+    footer {
+      padding: 10px 0;
+      color: #fff;
+      background-color: #212121;
+      font-size: small;
+    }
+    .wrapper {
+      width: 860px;
+      margin: 0 auto;
+    }
+    section {
+      padding: 20px 0;
+      background-color: #fff;
+      color: #212121;
+    }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f7f7f7;
+      margin: 0;
+      padding: 0;
+    }
+    img.logo {
+      height: 50px;
+      margin-right: 10px;
+    }
+    header h1 {
+      margin: 0;
+    }
+    header div {
+      display: flex;
+      align-items: center;
+    }
+    header a {
+      color: #fff;
+      text-decoration: none;
+    }
+  </style>
 </head>
 <body>
+  <header>
+    <div class="wrapper">
+      {% include header.html %}
+    </div>
+  </header>
+
   <div class="wrapper">
-    {% include header.html %}
     <section>
       {{ content }}
     </section>
     <footer>
-      <p><small>{{ site.title }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
-      <p><small>Published with <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      <p>{{ site.title }} maintained by <a href="{{ site.github.owner_url }}" style="color:#9cf;">{{ site.github.owner_name }}</a></p>
+      <p>Published with <a href="https://pages.github.com" style="color:#9cf;">GitHub Pages</a></p>
     </footer>
   </div>
 </body>
