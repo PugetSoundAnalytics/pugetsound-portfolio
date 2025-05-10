@@ -1,6 +1,6 @@
 # Puget Sound Analytics Portfolio 
 
-Data Clerics casting clarity spells on analytics chaos.
+A Data Cleric casting clarity spells on analytics chaos.
 
 ## Projects
 - [Revenue Trend Dashboard](./revenue-dashboard.md)
