@@ -2,8 +2,16 @@
 layout: default
 ---
 
-## Welcome to Puget Sound Analytics!
+## Taming Chaos, Crafting Meaning
 
-Coming soon: data driven stories, delivered in a human way to provide actionable business insights today and tomorrow.
+I help businesses uncover insights and make impactful decisions through clear, powerful analytics and data-driven storytelling.
 
-Stay tuned for my **unicorn analyst adventures!** 🦄✨
+### Grab your hat and boots—let's venture forth:
+
+- **[Who](pages/who)** – Meet the analyst behind the insights.
+- **[What](pages/what)** – Explore dynamic dashboards and captivating data stories.
+- **[Why](pages/why)** – Embark on analytical adventures, unicorn-style.
+
+If you're seeking data analysis with a dash of creativity, a sprinkle of AI, and a whole lot of moxie—you're in exactly the right place.
+
+[**Explore My Work →**](pages/what)
