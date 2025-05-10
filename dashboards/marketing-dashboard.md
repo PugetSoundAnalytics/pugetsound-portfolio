@@ -1,4 +1,9 @@
-# Marketing Campaign ROI Tracker (Tableau)
+---
+layout: default
+title: Marketing Dashboard
+---
+
+# Marketing Dashboard
 
 **Business Context:**  
 Marketing team dashboard showcasing campaign effectiveness, ROI, and performance KPIs.
