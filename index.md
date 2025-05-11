@@ -27,6 +27,5 @@ If you're seeking data analysis with a dash of creativity, a sprinkle of AI, and
       </a>
     </div>
   </div>
-
   <img src="/assets/images/revenue-dashboard.png" alt="Dashboard Preview" class="homepage-preview" />
 </div>
