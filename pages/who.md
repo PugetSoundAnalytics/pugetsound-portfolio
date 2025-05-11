@@ -28,4 +28,4 @@ Just as pigments flow unpredictably, creating unexpected beauty, I believe that 
 When not exploring dashboards or data-driven strategies, you’ll find me embracing the serendipitous dance of acrylic paint and gravity, crafting artworks that reflect the very essence of life's beautiful complexity.
 
 Let's Connect!
-LinkedIn | GitHub | Explore My Portfolio
+[LinkedIn](https://www.linkedin.com/in/jennchin/) | [GitHub](https://github.com/SheHasMoxie) | [Explore My Portfolio](../what)
