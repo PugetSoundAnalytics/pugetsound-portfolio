@@ -14,9 +14,10 @@ I help businesses uncover insights and make impactful decisions through clear, p
 
 If you're seeking data analysis with a dash of creativity, a sprinkle of AI, and a whole lot of moxie—you're in exactly the right place.
 
-<a href="pages/what" class="cta-button">Explore My Work →</a>
-
-<img src="/assets/images/revenue-dashboard.png" alt="Dashboard Preview" class="homepage-preview" />
+<div class="cta-container">
+  <a href="pages/what" class="cta-button">Explore My Work →</a>
+  <img src="/assets/images/revenue-dashboard.png" alt="Dashboard Preview" class="homepage-preview" />
+</div>
 
 ### Let's Connect:
 <div class="social-icons">
