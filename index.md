@@ -18,15 +18,17 @@ If you're seeking data analysis with a dash of creativity, a sprinkle of AI, and
   <div class="cta-socials">
     <a href="pages/what" class="cta-button">Explore My Work →</a>
 
-   <div class="social-icons">
-      <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <div class="social-icons">
+      <a href="https://linkedin.com/in/jennchin" target="_blank">
         <img src="/assets/images/social/linkedin.png" alt="LinkedIn" />
       </a>
-      <a href="https://github.com/yourprofile" target="_blank">
+      <a href="https://github.com/SheHasMoxie" target="_blank">
         <img src="/assets/images/social/github.png" alt="GitHub" />
       </a>
     </div>
   </div>
 
-  <img src="/assets/images/revenue-dashboard.png" alt="Dashboard Preview" class="homepage-preview" />
+  <a href="dashboards/revenue-dashboard">
+    <img src="/assets/images/revenue-dashboard.png" alt="Dashboard Preview" class="homepage-preview" />
+  </a>
 </div>
