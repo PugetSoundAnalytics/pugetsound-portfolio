@@ -93,8 +93,7 @@
     .cta-container {
       display: flex;
       align-items: flex-start;
-      justify-content: flex-start;
-      gap: 20px;
+      gap: 15px;
       margin: 20px 0;
       flex-wrap: wrap;
     }
@@ -103,7 +102,8 @@
       display: flex;
       flex-direction: column;
       align-items: flex-start;
-      gap: 15px; /* vertical space between button and socials */
+      gap: 10px;
+      margin-top: 0; /* explicitly reset top margin */
     }
     
     .cta-button {
@@ -113,26 +113,20 @@
       text-decoration: none;
       border-radius: 4px;
       white-space: nowrap;
-    }
-    
-    .cta-button:hover {
-      background-color: #9cf;
-      color: #212121 !important;
+      margin: 0; /* explicitly remove margin */
     }
     
     .social-icons {
       display: flex;
       gap: 10px;
+      margin: 0; /* explicitly remove margin */
     }
     
     .social-icons a img {
-      width: 48px;
-      height: 48px;
+      width: 32px;
+      height: 32px;
       transition: opacity 0.3s ease;
-    }
-    
-    .social-icons a img:hover {
-      opacity: 0.7;
+      margin: 0; /* explicitly remove margin */
     }
     
     img.homepage-preview {
@@ -141,6 +135,7 @@
       height: auto;
       border-radius: 8px;
       box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      margin-top: 0; /* explicitly reset top margin */
     }
 
   </style>
