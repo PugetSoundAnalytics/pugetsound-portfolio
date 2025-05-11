@@ -5,7 +5,7 @@ title: Who
 
 ## Who am I?
 
-I'm Jenn, thanks for stopping by.
+Hi, I'm Jenn, thanks for stopping by.
 
 I'm a data analyst, visualization expert, and artist who sees the hidden logic within the chaos of data and creativity alike. With extensive experience spanning e-commerce, biotech, high tech, telecom, and consumer products, I specialize in translating complex business information into clear, impactful insights.
 
