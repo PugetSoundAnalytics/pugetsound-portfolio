@@ -59,6 +59,7 @@
     header div {
       display: flex;
       align-items: center;
+      gap: 10px;
     }
 
     header a {
@@ -156,6 +157,18 @@
       box-shadow: 0 6px 15px rgba(0,0,0,0.2);
     }
 
+    @media (max-width: 600px) {
+      header div {
+        flex-direction: column;
+        gap: 8px;
+        text-align: center;
+      }
+  
+      img.logo {
+        margin-right: 0;
+      }
+    }
+    
   </style>
 </head>
 
