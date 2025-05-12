@@ -244,44 +244,23 @@
   window.addEventListener("load", function(){
     window.cookieconsent.initialise({
       "palette": {
-        "popup": {
-          "background": "#212121",
-          "text": "#ffffff"
-        },
-        "button": {
-          "background": "#ffffff",
-          "text": "#212121"
-        }
+        "popup": { "background": "#212121", "text": "#ffffff" },
+        "button": { "background": "#ffffff", "text": "#212121" }
       },
       "theme": "classic",
       "position": "bottom",
-      "type": "opt-in",
+      "type": "info",
       "content": {
         "message": "I use minimal, privacy-friendly analytics to improve your experience. No creepy stuff—I promise!",
         "dismiss": "Accept",
-        "deny": "Reject",
-        "allow": "Accept",
         "link": "Privacy Policy",
         "href": "/pages/privacy-policy"
       },
       onInitialise: function (status) {
-        var type = this.options.type;
-        var didConsent = this.hasConsented();
-        if (type == 'opt-in' && didConsent) {
-          // enable analytics cookies or scripts here
-          gtag('consent', 'update', {'analytics_storage': 'granted'});
-        } else {
-          // disable analytics cookies or scripts here
-          gtag('consent', 'update', {'analytics_storage': 'denied'});
-        }
+        gtag('consent', 'update', {'analytics_storage': 'granted'});
       },
       onStatusChange: function(status, chosenBefore) {
-        var didConsent = this.hasConsented();
-        if (didConsent) {
-          gtag('consent', 'update', {'analytics_storage': 'granted'});
-        } else {
-          gtag('consent', 'update', {'analytics_storage': 'denied'});
-        }
+        gtag('consent', 'update', {'analytics_storage': 'granted'});
       }
     });
   });
