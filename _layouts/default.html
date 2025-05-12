@@ -254,5 +254,19 @@
   });
   </script>
 
+  <!-- Fallback removal handler -->
+  <script>
+  // Fallback: if any button in the cookie banner is clicked, remove the banner
+  document.body.addEventListener('click', function(e){
+    // look for clicks on the Consent banner buttons
+    if (e.target.matches('.cc-window.cc-banner .cc-btn')) {
+      var banner = document.querySelector('.cc-window.cc-banner');
+      if (banner) {
+        banner.remove();    // removes the bottom banner entirely
+      }
+    }
+  });
+  </script>
+  
 </body>
 </html>
