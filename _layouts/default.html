@@ -169,9 +169,8 @@
       }
     }
 
-    /* Main banner: only when visible */
+    /* Main banner only while visible */
     .cc-window.cc-banner:not(.cc-hidden) {
-      top: auto !important;
       bottom: 0 !important;
       position: fixed !important;
       left: 0 !important;
@@ -179,16 +178,15 @@
       margin: 0 !important;
     }
     
-    /* Subtle “Cookie Policy” button once hidden */
-    .cc-revoke {
-      top: 0 !important;
-      bottom: unset !important;
-      left: 0 !important;
-    }
-
-    /* Ensure any banner marked “hidden” actually disappears */
+    /* Actually hide the banner once it’s been accepted/dismissed */
     .cc-window.cc-banner.cc-hidden {
       display: none !important;
+    }
+    
+    /* Tiny “Cookie Policy” link at top-left after acceptance */
+    .cc-revoke {
+      top: 0 !important;
+      left: 0 !important;
     }
 
   </style>
