@@ -181,7 +181,7 @@
     gtag('config', 'G-M8N4ST4KV1');
   </script>
   
-  <!-- Official CDN (JSDelivr) CookieConsent v4 -->
+  <!-- Official CDN (JSDelivr) CookieConsent v3 -->
   <script defer src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
 
 </head>
@@ -204,68 +204,50 @@
   </div>
   
   <script>
-    window.addEventListener('load', function(){
-      CookieConsent.run({
-        guiOptions: {
-          consentModal: {
-            layout: "box",
-            position: "bottom right",
-            palette: {
-              popup: { background: "#212121", text: "#ffffff" },
-              button: { background: "#ffffff", text: "#212121" }
-            }
-          },
-          preferencesModal: {
-            palette: {
-              popup: { background: "#212121", text: "#ffffff" },
-              button: { background: "#ffffff", text: "#212121" }
-            }
-          }
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#212121",
+          "text": "#ffffff"
         },
-        categories: {
-          necessary: { enabled: true, readOnly: true },
-          analytics: { enabled: false }
-        },
-        language: {
-          default: "en",
-          translations: {
-            en: {
-              consentModal: {
-                title: "Your Privacy Matters",
-                description: "I use minimal, privacy-friendly analytics to improve your experience. No creepy stuff—I promise!",
-                acceptAllBtn: "Accept",
-                acceptNecessaryBtn: "Reject",
-                showPreferencesBtn: "Manage Preferences",
-                footer: "<a href='/pages/privacy-policy'>Privacy Policy</a>"
-              },
-              preferencesModal: {
-                title: "Manage cookie preferences",
-                acceptAllBtn: "Accept All",
-                acceptNecessaryBtn: "Accept Necessary Only",
-                savePreferencesBtn: "Save Preferences",
-                closeIconLabel: "Close",
-                sections: [
-                  {
-                    title: "Cookie Usage",
-                    description: "This website uses cookies to understand general usage patterns—no personally identifiable data is collected."
-                  },
-                  {
-                    title: "Strictly Necessary Cookies",
-                    description: "These cookies are essential for the website's basic functionality and cannot be disabled.",
-                    linkedCategory: "necessary"
-                  },
-                  {
-                    title: "Analytics Cookies",
-                    description: "Helps me understand site traffic to improve your experience.",
-                    linkedCategory: "analytics"
-                  }
-                ]
-              }
-            }
-          }
+        "button": {
+          "background": "#ffffff",
+          "text": "#212121"
         }
-      });
+      },
+      "theme": "classic",
+      "position": "bottom-right",
+      "type": "opt-in",
+      "content": {
+        "message": "I use minimal, privacy-friendly analytics to improve your experience. No creepy stuff—I promise!",
+        "dismiss": "Accept",
+        "deny": "Reject",
+        "allow": "Accept",
+        "link": "Privacy Policy",
+        "href": "/pages/privacy-policy"
+      },
+      onInitialise: function (status) {
+        var type = this.options.type;
+        var didConsent = this.hasConsented();
+        if (type == 'opt-in' && didConsent) {
+          // enable analytics cookies or scripts here
+          gtag('consent', 'update', {'analytics_storage': 'granted'});
+        } else {
+          // disable analytics cookies or scripts here
+          gtag('consent', 'update', {'analytics_storage': 'denied'});
+        }
+      },
+      onStatusChange: function(status, chosenBefore) {
+        var didConsent = this.hasConsented();
+        if (didConsent) {
+          gtag('consent', 'update', {'analytics_storage': 'granted'});
+        } else {
+          gtag('consent', 'update', {'analytics_storage': 'denied'});
+        }
+      }
     });
+  });
   </script>
 
 </body>
