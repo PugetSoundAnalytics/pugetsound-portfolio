@@ -181,6 +181,9 @@
     gtag('config', 'G-M8N4ST4KV1');
   </script>
   
+  <!-- CookieConsent v4 by Osano -->
+  <script defer src="https://cdn.jsdelivr.net/npm/cookieconsent@4/build/cookieconsent.js"></script>
+
 </head>
 
 <body>
@@ -199,5 +202,70 @@
       <p>Published with <a href="https://pages.github.com" style="color:#9cf;">GitHub Pages</a> | <a href="/pages/privacy-policy">Privacy Policy</a></p>
     </footer>
   </div>
+  <script>
+    window.addEventListener('load', function(){
+      CookieConsent.run({
+        guiOptions: {
+          consentModal: {
+            layout: "box",
+            position: "bottom right",
+            palette: {
+              popup: { background: "#212121", text: "#ffffff" },
+              button: { background: "#ffffff", text: "#212121" }
+            }
+          },
+          preferencesModal: {
+            palette: {
+              popup: { background: "#212121", text: "#ffffff" },
+              button: { background: "#ffffff", text: "#212121" }
+            }
+          }
+        },
+        categories: {
+          necessary: { enabled: true, readOnly: true },
+          analytics: { enabled: false }
+        },
+        language: {
+          default: "en",
+          translations: {
+            en: {
+              consentModal: {
+                title: "Your Privacy Matters",
+                description: "I use minimal, privacy-friendly analytics to improve your experience. No creepy stuff—I promise!",
+                acceptAllBtn: "Accept",
+                acceptNecessaryBtn: "Reject",
+                showPreferencesBtn: "Manage Preferences",
+                footer: "<a href='/pages/privacy-policy'>Privacy Policy</a>"
+              },
+              preferencesModal: {
+                title: "Manage cookie preferences",
+                acceptAllBtn: "Accept All",
+                acceptNecessaryBtn: "Accept Necessary Only",
+                savePreferencesBtn: "Save Preferences",
+                closeIconLabel: "Close",
+                sections: [
+                  {
+                    title: "Cookie Usage",
+                    description: "This website uses cookies to understand general usage patterns—no personally identifiable data is collected."
+                  },
+                  {
+                    title: "Strictly Necessary Cookies",
+                    description: "These cookies are essential for the website's basic functionality and cannot be disabled.",
+                    linkedCategory: "necessary"
+                  },
+                  {
+                    title: "Analytics Cookies",
+                    description: "Helps me understand site traffic to improve your experience.",
+                    linkedCategory: "analytics"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      });
+    });
+    </script>
+
 </body>
 </html>
