@@ -3,9 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index, follow" />
+  <meta name="description" content="Data driven stories, a human way to deliver business insight today and tomorrow.">
+  <meta property="og:title"         content="{{ page.title | default: site.title }}" />
+  <meta property="og:description"   content="{{ page.description | default: site.description }}" />
+  <meta property="og:url"           content="https://pugetsoundanalytics.com{{ page.url }}" />
+  <meta property="og:image"         content="https://pugetsoundanalytics.com/assets/images/og-image.png" />
+  <meta name="twitter:card"         content="summary_large_image" />
   <title>{{ page.title | default: site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
+  <link rel="canonical" href="https://pugetsoundanalytics.com{{ page.url | replace:'/index.html','/' }}" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://www.googletagmanager.com">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
@@ -33,19 +43,32 @@
     img.homepage-preview { width: 100%; max-width: 450px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
     @media (max-width:600px) { header div { flex-direction: column; gap: 8px; text-align: center;} img.logo { margin-right:0;} }
 
-    /* Hide banner once hidden */
-    .cc-window.cc-banner.cc-hidden { display: none !important; }
   </style>
 
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-M8N4ST4KV1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-M8N4ST4KV1');
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-M8N4ST4KV1', { 'anonymize_ip': true });
   </script>
 
-  <!-- CookieConsent v3 by Osano -->
-  <script defer src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Jennifer Chin",
+    "url": "https://pugetsoundanalytics.com",
+    "jobTitle": "Data Analyst & Visualization Artist",
+    "sameAs": [
+      "https://www.linkedin.com/in/jennchin/",
+      "https://github.com/SheHasMoxie"
+    ]
+  }
+  </script>
+
+  
 </head>
 <body>
   <header><div class="wrapper">{% include header.html %}</div></header>
@@ -57,29 +80,5 @@
     </footer>
   </div>
 
-  <script>
-    window.addEventListener('load', function(){
-      window.cookieconsent.initialise({
-        revokable: true,
-        palette: {
-          popup:  { background: '#212121', text: '#ffffff' },
-          button: { background: '#ffffff', text: '#212121' }
-        },
-        theme: 'classic',
-        position: 'bottom',
-        type: 'opt-out',
-        content: {
-          message: 'I use minimal, privacy-friendly analytics to improve your experience—no creepy stuff, I promise!',
-          dismiss: 'Accept',
-          deny: 'Decline',
-          link: 'Privacy Policy',
-          href: '/pages/privacy-policy',
-          revoke: 'Cookie Policy'
-        },
-        onInitialise: function(status) { if (this.hasConsented()) this.hide(); },
-        onStatusChange:  function(status, chosenBefore) { if (this.hasConsented()) this.hide(); }
-      });
-    });
-  </script>
 </body>
 </html>
