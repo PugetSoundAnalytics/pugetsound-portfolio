@@ -249,18 +249,28 @@
       },
       "theme": "classic",
       "position": "bottom",
-      "type": "info",
+      "type": "opt-out",
       "content": {
         "message": "I use minimal, privacy-friendly analytics to improve your experience. No creepy stuff—I promise!",
         "dismiss": "Accept",
+        "deny": "Decline",
+        "allow": "Accept",
         "link": "Privacy Policy",
         "href": "/pages/privacy-policy"
       },
       onInitialise: function (status) {
-        gtag('consent', 'update', {'analytics_storage': 'granted'});
+        if (this.hasConsented()) {
+          gtag('consent', 'update', {'analytics_storage': 'granted'});
+        } else {
+          gtag('consent', 'update', {'analytics_storage': 'denied'});
+        }
       },
       onStatusChange: function(status, chosenBefore) {
-        gtag('consent', 'update', {'analytics_storage': 'granted'});
+        if (this.hasConsented()) {
+          gtag('consent', 'update', {'analytics_storage': 'granted'});
+        } else {
+          gtag('consent', 'update', {'analytics_storage': 'denied'});
+        }
       }
     });
   });
