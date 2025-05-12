@@ -226,6 +226,7 @@
   <script>
   window.addEventListener("load", function(){
     window.cookieconsent.initialise({
+      revokable: true,
       "palette": {
         "popup": { "background": "#212121", "text": "#ffffff" },
         "button": { "background": "#ffffff", "text": "#212121" }
@@ -239,6 +240,7 @@
         "deny": "Decline",
         "link": "Privacy Policy",
         "href": "/pages/privacy-policy"
+        "revoke": "Cookie Policy"
       },
       onInitialise: function (status) {
         if (this.hasConsented()) {
