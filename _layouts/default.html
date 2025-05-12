@@ -221,23 +221,33 @@
   </div>
   
   <script>
-  window.addEventListener("load", function(){
-    window.cookieconsent.initialise({
-      "palette": {
-        "popup": { "background": "#212121", "text": "#ffffff" },
-        "button": { "background": "#ffffff", "text": "#212121" }
-      },
-      "theme": "classic",
-      "position": "bottom",
-      "content": {
-        "message": "I use minimal, privacy-friendly analytics to improve your experience. No creepy stuff—I promise!",
-        "dismiss": "Accept",
-        "deny": "Decline",
-        "link": "Privacy Policy",
-        "href": "/pages/privacy-policy"
-      }
+    window.addEventListener("load", function(){
+      window.cookieconsent.initialise({
+        "palette": {
+          "popup": { "background": "#212121", "text": "#ffffff" },
+          "button": { "background": "#ffffff", "text": "#212121" }
+        },
+        "theme": "classic",
+        "position": "bottom",
+        "content": {
+          "message": "I use minimal, privacy-friendly analytics to improve your experience. No creepy stuff—I promise!",
+          "dismiss": "Accept",
+          "link": "Privacy Policy",
+          "href": "/pages/privacy-policy"
+        },
+        // As soon as the banner initialises or the status changes...
+        onInitialise: function(status) {
+          if (this.hasConsented()) {
+            this.hide();
+          }
+        },
+        onStatusChange: function(status, chosenBefore) {
+          if (this.hasConsented()) {
+            this.hide();
+          }
+        }
+      });
     });
-  });
   </script>
 
 </body>
