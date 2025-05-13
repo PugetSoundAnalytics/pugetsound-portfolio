@@ -45,7 +45,11 @@
     a .homepage-preview {transition: transform 0.3s ease, box-shadow 0.3s ease;  }
     a:hover .homepage-preview {transform: translateY(-5px);  box-shadow: 0 6px 15px rgba(0,0,0,0.2);   }
     @media (max-width:600px) { header div { flex-direction: column; gap: 8px; text-align: center;} img.logo { margin-right:0;} }
-
+    .portfolio-grid { display: grid; gap: 20px;  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); margin-bottom: 30px;  }
+    .card { background:#fff; border-radius:8px; overflow:hidden; box-shadow:0 4px 10px rgba(0,0,0,0.1); }
+    .card-thumb { width:100%; height:auto; display:block; }
+    .card h3 { margin: 12px 16px 8px; font-size: 1.25rem; }
+    .card p { margin:0 16px 16px; line-height:1.5; }
   </style>
 
   <!-- Google Analytics -->
