@@ -6,7 +6,7 @@ description: "Preview my upcoming interactive dashboards—Revenue is live in pr
 
 ## Portfolio Dashboard Previews
 
-I’m hard at work turning these ideas into fully interactive dashboards. Here’s what’s in the pipeline:
+I'm actively developing these interactive data dashboards, focused on revenue analysis, HR insights, and marketing performance. Here's what's coming soon:
 
 <div class="portfolio-grid">
 
@@ -63,6 +63,6 @@ I’m hard at work turning these ideas into fully interactive dashboards. Here�
 
 <p>Stay tuned—these dashboards will go live one by one! 🚀</p>
 
-### Curious about the story behind these dashboards?
+### Curious about the narrative driving these insights?
 
-[Discover the "Why" behind my data-driven adventures →](/pages/why){: .cta-button }
+[Discover the compelling stories behind my dashboards →](/pages/why){: .cta-button }
