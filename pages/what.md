@@ -34,7 +34,7 @@ I'm actively developing these interactive data dashboards, focused on revenue an
 
   <!-- Marketing Dashboard Placeholder -->
   <div class="card placeholder">
-    <a href="/dashboards/marketing-dashboard">
+    <a href="/dashboards/marketing-dashboard" aria-label="Explore Marketing Dashboard details">
       <img src="/assets/images/placeholder.jpg"
              alt="Placeholder for upcoming Marketing dashboard"
              class="card-thumb" />
