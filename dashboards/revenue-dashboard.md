@@ -13,7 +13,7 @@ Monthly executive dashboard designed to surface key revenue insights at a glance
 <figure>
   <a href="/dashboards/revenue-dashboard">
     <img
-      src="/assets/images/portfolio/revenue-dashboard-thumb.png"
+      src="/assets/images/revenue-dashboard-thumb.png"
       alt="Thumbnail of revenue dashboard showing monthly and year-to-date growth metrics"
       class="card-thumb"
     />
