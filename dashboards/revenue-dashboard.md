@@ -1,25 +1,37 @@
 ---
 layout: default
-title: Revenue Dashboard
+title: "Revenue Dashboard"
+description: "Monthly business review dashboard showcasing revenue performance, trends, and year-over-year comparisons for executives."
 ---
 
-## Revenue Dashboard
+## Revenue Dashboard Overview
 
-**Business Context:**  
-Monthly business review dashboard designed for executives, showing revenue performance, trends, and year-over-year comparisons.
+### Business Context
+Monthly executive dashboard designed to surface key revenue insights at a glance: performance, trends, and year-over-year comparisons.
 
-![Revenue Dashboard Screenshot](/assets/images/revenue-dashboard.png)
+### Interactive Demo (coming soon)
+<figure>
+  <a href="/dashboards/revenue-dashboard">
+    <img
+      src="/assets/images/portfolio/revenue-dashboard-thumb.png"
+      alt="Thumbnail of revenue dashboard showing monthly and year-to-date growth metrics"
+      class="card-thumb"
+    />
+  </a>
+  <figcaption>Click the thumbnail to explore the full interactive dashboard (coming soon).</figcaption>
+</figure>
 
-**Key Metrics:**  
-- Gross Revenue, Net Revenue, Profit Margin
-- COGS, Returns, Discounts (YoY, bps, and trends)
+### Key Metrics
+- **Gross Revenue** & **Net Revenue** with Profit Margins
+- **Cost of Goods Sold (COGS)**, **Returns**, **Discounts** (YoY changes, basis points, and trend lines)
 
-**Tools Used:**  
-- Power BI, DAX, Contoso dataset (Microsoft)
+### Tools & Data
+- **Platform:** Power BI with DAX measures
+- **Sample Data:** Contoso dataset (Microsoft)
 
-**Design Rationale:**  
-- Newspaper-style executive clarity
-- Color-blind accessible palette, tested on https://www.color-blindness.com/coblis-color-blindness-simulator/
-- Practical executive KPIs and clear trend indicators
+### Design Rationale
+- **Executive Clarity:** Newspaper-style layout for quick decision-making
+- **Accessibility:** Color-blind friendly palette tested via [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+- **Focus:** Practical KPIs and clear trend indicators
 
-*(Interactive visuals or demo coming soon!)*
+Stay tuned—this dashboard will be fully interactive soon! 🚀
