@@ -8,7 +8,7 @@ description: "Jennifer Chin provides impactful business analytics, data visualiz
 
 I help businesses uncover insights and make impactful decisions through clear, powerful analytics and data-driven storytelling.
 
-### Grab your hat and boots—let's venture forth:
+## Grab your hat and boots—let's venture forth:
 
 - **[Who](pages/who)** – Meet the analyst behind the insights.
 - **[What](pages/what)** – Explore dynamic dashboards and captivating data stories.
