@@ -11,7 +11,7 @@ Behind every data point is a narrative waiting to be told. Data stories transfor
 Here, you'll find explorations on:
 - **Crafting Compelling Narratives** — How storytelling turns analytics into strategic gold.
 - **Humanizing Data** — Making numbers relatable and impactful.
-- **Analytical Adventures** — Insights, experiments, and lessons learned on my unicorn analyst journey. 🦄✨
+- **Analytical Adventures** — Insights, experiments, and lessons learned on my unicorn analyst journey.
 
 I'm currently brewing up some captivating stories, so stay tuned for the magic about to unfold!
 
