@@ -23,33 +23,23 @@ I'm actively developing these interactive data dashboards, focused on revenue an
 
   <!-- HR Dashboard Placeholder -->
   <div class="card placeholder">
-    <a href="/dashboards/hr-dashboard">
-      <figure>
-        <img
-          src="/assets/images/placeholder.jpg"
-          alt="Placeholder for upcoming Human Resources dashboard"
-          class="card-thumb"
-        />
-        <figcaption>
-          <strong>HR Dashboard</strong>
-        </figcaption>
-      </figure>
+    <a href="/dashboards/hr-dashboard" aria-label="Explore HR Dashboard details">
+      <img src="/assets/images/placeholder.jpg"
+           alt="Placeholder for upcoming Human Resources dashboard"
+           class="card-thumb" />
+      <h3>HR Dashboard</h3>
+      <p>Coming Soon</p>
     </a>
   </div>
 
   <!-- Marketing Dashboard Placeholder -->
   <div class="card placeholder">
     <a href="/dashboards/marketing-dashboard">
-      <figure>
-        <img
-          src="/assets/images/placeholder.jpg"
-          alt="Placeholder for upcoming Marketing dashboard"
-          class="card-thumb"
-        />
-        <figcaption>
-          <strong>Marketing Dashboard</strong>
-        </figcaption>
-      </figure>
+      <img src="/assets/images/placeholder.jpg"
+             alt="Placeholder for upcoming Marketing dashboard"
+             class="card-thumb" />
+      <h3>Marketing Dashboard</h3>
+      <p>Coming Soon</p>
     </a>
   </div>
 
