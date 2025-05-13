@@ -24,5 +24,5 @@ I'm committed to respecting your privacy and ensuring your experience here is sa
 If you have any questions or concerns, please reach out directly!
 
 ### Contact
-Jenn Chin  
+Jennifer Chin  
 [LinkedIn](https://www.linkedin.com/in/jennchin/) | [GitHub](https://github.com/SheHasMoxie)
