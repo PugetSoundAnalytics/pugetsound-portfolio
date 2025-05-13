@@ -62,3 +62,7 @@ I’m hard at work turning these ideas into fully interactive dashboards. Here�
 </div>
 
 <p>Stay tuned—these dashboards will go live one by one! 🚀</p>
+
+### Curious about the story behind these dashboards?
+
+[Discover the "Why" behind my data-driven adventures →](/pages/why){: .cta-button }
