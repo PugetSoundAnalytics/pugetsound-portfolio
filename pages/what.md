@@ -12,18 +12,12 @@ I'm actively developing these interactive data dashboards, focused on revenue an
 
   <!-- Revenue Dashboard Preview -->
   <div class="card">
-    <a href="/dashboards/revenue-dashboard">
-      <figure>
-        <img
-          src="/assets/images/revenue-dashboard-thumb.png"
-          alt="Thumbnail preview of the Revenue dashboard showing monthly and year-to-date growth"
-          class="card-thumb"
-        />
-        <figcaption>
-          <strong>Revenue Dashboard</strong>  
-          (Preview – interactive version coming soon!)
-        </figcaption>
-      </figure>
+    <a href="/dashboards/revenue-dashboard" aria-label="Explore Revenue Dashboard details">
+      <img src="/assets/images/revenue-dashboard-thumb.png"
+           alt="Revenue Dashboard thumbnail"
+           class="card-thumb" />
+      <h3>Revenue Dashboard</h3>
+      <p>Interactive Version Coming Soon</p>
     </a>
   </div>
 
