@@ -10,16 +10,12 @@ description: "Monthly business review dashboard showcasing revenue performance, 
 Monthly executive dashboard designed to surface key revenue insights at a glance: performance, trends, and year-over-year comparisons.
 
 ### Interactive Demo (coming soon)
-<figure>
-  <a href="/dashboards/revenue-dashboard">
-    <img
-      src="/assets/images/revenue-dashboard-thumb.png"
-      alt="Thumbnail of revenue dashboard showing monthly and year-to-date growth metrics"
-      class="card-thumb"
-    />
-  </a>
-  <figcaption>Click the thumbnail to explore the full interactive dashboard (coming soon).</figcaption>
-</figure>
+
+  <img
+    src="/assets/images/revenue-dashboard.png"
+    alt="Thumbnail of revenue dashboard showing monthly and year-to-date growth metrics"
+    class="card-thumb"
+  />
 
 ### Key Metrics
 - **Gross Revenue** & **Net Revenue** with Profit Margins
