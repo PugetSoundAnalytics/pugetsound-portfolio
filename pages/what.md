@@ -50,4 +50,4 @@ I'm actively developing these interactive data dashboards, focused on revenue an
 
 ### Curious about the narrative driving these insights?
 
-[Discover the compelling stories behind my dashboards →](/pages/why){: .cta-button }
+[Discover the compelling stories behind my dashboards →](/why/){: .cta-button }
