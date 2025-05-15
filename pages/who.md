@@ -30,7 +30,7 @@ When not exploring dashboards or data-driven strategies, you’ll find me embrac
 
 Ready to uncover insights together? Let's connect and discuss how I can help illuminate your data story.
 
-Whether you're curious about my [visual storytelling and analytics projects](/pages/what) or want to chat about a potential collaboration, you can find me here:
+Whether you're curious about my [visual storytelling and analytics projects](/what/) or want to chat about a potential collaboration, you can find me here:
 
 <div class="social-icons">
   <a href="https://linkedin.com/in/jennchin" target="_blank" aria-label="LinkedIn profile: Jennifer Chin">
