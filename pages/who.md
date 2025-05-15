@@ -2,6 +2,7 @@
 layout: default
 title: About Jennifer Chin | Data Analyst & Visualization Expert
 description: "Meet Jennifer Chin, a data analyst and visualization expert specializing in translating complex data into actionable business insights."
+permalink: /who/
 ---
 
 ## Who am I?
