@@ -10,9 +10,9 @@ I help businesses uncover insights and make impactful decisions through clear, p
 
 ## Grab your hat and boots—let's venture forth:
 
-- **[Who](pages/who)** – Meet the analyst behind the insights.
-- **[What](pages/what)** – Explore dynamic dashboards and captivating data stories.
-- **[Why](pages/why)** – Embark on analytical adventures, unicorn-style.
+- **[Who](/who/)** – Meet the analyst behind the insights.
+- **[What](/what/)** – Explore dynamic dashboards and captivating data stories.
+- **[Why](/why/)** – Embark on analytical adventures, unicorn-style.
 
 If you're seeking data visualization with a dash of creativity, AI-enhanced analytics, and a whole lot of moxie—you're in exactly the right place.
 
