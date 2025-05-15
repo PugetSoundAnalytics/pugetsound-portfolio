@@ -6,7 +6,12 @@ published: true
 excerpt: "Welcome to my blog! I'm Jennifer Chin—a Tacoma-based analyst and storyteller on a quest to share insights and build authentic connections. Let's get this conversation started!"
 ---
 
-## Hello and Welcome!
+<div style="display: flex; align-items: flex-end; gap: 20px; margin-bottom: 30px;">
+  <img src="/assets/images/analytics-storytelling-journey-sql-networking.png" 
+       alt="Analytics and storytelling journey illustration"
+       style="width: 120px; height: auto;">
+  <h1 style="margin: 0;">Hello and Welcome!</h1>
+</div>
 
 Thanks for stopping by! I'm Jennifer Chin 👋—a Tacoma-based business analyst, data storyteller, consultant, and artist. My expertise includes **data visualization**, **analytics strategy**, and **professional branding**.
 
