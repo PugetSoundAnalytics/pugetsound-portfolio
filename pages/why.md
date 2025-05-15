@@ -16,7 +16,7 @@ Here, you'll find explorations on:
 ## 📌 Where to Begin?
 
 If you're new here, check out my introductory post:  
-👉 [**Hello & Welcome! Adventures in Analytics, Storytelling, and Authentic Networking**](link-to-your-post)
+👉 [**Hello & Welcome! Adventures in Analytics, Storytelling, and Authentic Networking**](pages/blog/hello-welcome-analytics-storytelling-networking.md)
 
 I'm currently brewing up more captivating stories, so stay tuned for the magic about to unfold!
 
