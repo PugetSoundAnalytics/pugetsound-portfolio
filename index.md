@@ -18,7 +18,7 @@ If you're seeking data visualization with a dash of creativity, AI-enhanced anal
 
 <div class="cta-container">
   <div class="cta-socials">
-    <a href="pages/what" class="cta-button">Explore My Work →</a>
+    <a href="/what/" class="cta-button">Explore My Work →</a>
 
   <div class="social-icons">
       <a href="https://linkedin.com/in/jennchin" target="_blank" aria-label="LinkedIn profile for Jennifer Chin">
