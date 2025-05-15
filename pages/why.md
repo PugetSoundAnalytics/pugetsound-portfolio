@@ -28,7 +28,7 @@ I'm currently brewing up more captivating stories, so stay tuned for the magic a
   {% endfor %}
 </ul>
 
-### 🔎 Want to see every post? Check the [full blog index]({{ site.baseurl }}/blog/).
+### 🔎 Want to see every post? Check the [full blog index](pages/blog.md).
 
 **Don't Miss Out!**  
 Follow me on [LinkedIn](https://www.linkedin.com/in/jennchin/) or check my [GitHub](https://github.com/SheHasMoxie) for updates and sneak peeks.
