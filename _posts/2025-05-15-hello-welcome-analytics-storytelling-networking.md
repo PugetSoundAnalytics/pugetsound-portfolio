@@ -1,8 +1,9 @@
 ---
-layout: default
-title: Hello & Welcome! Adventures in Analytics, Storytelling, and Authentic Networking
+layout: post
+title: "Hello & Welcome! Adventures in Analytics, Storytelling, and Authentic Networking"
 date: 2025-05-15 08:00:00 -0700
 published: true
+excerpt: "Welcome to my blog! I'm Jennifer Chin—a Tacoma-based analyst and storyteller on a quest to share insights and build authentic connections. Let's get this conversation started!"
 ---
 
 ## Hello and Welcome!
