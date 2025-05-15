@@ -9,7 +9,7 @@ excerpt: "Welcome to my blog! I'm Jennifer Chin—a Tacoma-based analyst and sto
 <div style="display: flex; align-items: flex-end; gap: 20px; margin-bottom: 30px;">
   <img src="/assets/images/analytics-storytelling-journey-sql-networking.png" 
        alt="Analytics and storytelling journey illustration"
-       style="width: 120px; height: auto;">
+       style="width: 300px; height: auto;">
   <h1 style="margin: 0;">Hello and Welcome!</h1>
 </div>
 
