@@ -2,6 +2,7 @@
 layout: default
 title: Why Data Stories Matter
 description: Discover why storytelling is key to turning data into meaningful business insights.
+permalink: /why/
 ---
 
 ## Every Number Has a Story
