@@ -13,7 +13,12 @@ Here, you'll find explorations on:
 - **Humanizing Data** — Making numbers relatable and impactful.
 - **Analytical Adventures** — Insights, experiments, and lessons learned on my unicorn analyst journey.
 
-I'm currently brewing up some captivating stories, so stay tuned for the magic about to unfold!
+## 📌 Where to Begin?
+
+If you're new here, check out my introductory post:  
+👉 [**Hello & Welcome! Adventures in Analytics, Storytelling, and Authentic Networking**](link-to-your-post)
+
+I'm currently brewing up more captivating stories, so stay tuned for the magic about to unfold!
 
 ---
 
