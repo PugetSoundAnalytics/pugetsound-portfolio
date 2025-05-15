@@ -20,6 +20,13 @@ If you're new here, check out my introductory post:
 
 I'm currently brewing up more captivating stories, so stay tuned for the magic about to unfold!
 
+## 📚 Recent Posts
+
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}</li>
+  {% endfor %}
+</ul>
 ---
 
 **Don't Miss Out!**  
