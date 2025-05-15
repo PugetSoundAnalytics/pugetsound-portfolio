@@ -2,6 +2,7 @@
 layout: default
 title: What
 description: "Preview my upcoming interactive dashboards—Revenue is live in preview, with HR and Marketing dashboards coming soon!"
+permalink: /what/
 ---
 
 ## Portfolio Dashboard Previews
