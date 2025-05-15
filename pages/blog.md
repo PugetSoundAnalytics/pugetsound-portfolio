@@ -18,4 +18,4 @@ permalink: /blog/
 
 ---
 
-📌 [Back to Why Data Stories Matter](pages/why.md)
+📌 [Back to Why Data Stories Matter](/why.md)
