@@ -34,7 +34,8 @@ Each project includes:
 
 🌐 [Visit PugetSoundAnalytics.com](https://pugetsoundanalytics.com)  
 📅 [Book a chat](https://cal.com/jennchin) if you'd like to talk data, dashboards, or collabs.  
-🎨 [Explore the artist behind the analyst](https://jenniferchinartist.com)
+🎨 [Explore the artist behind the analyst](https://jenniferchinartist.com)  
+📚 [See the full list of tools and platforms used](docs/tools-used.md)  
 
 ---
 
