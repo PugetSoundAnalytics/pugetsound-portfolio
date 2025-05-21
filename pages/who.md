@@ -30,7 +30,7 @@ When not exploring dashboards or data-driven strategies, you’ll find me embrac
 
 Ready to uncover insights together? Let's connect and discuss how I can help illuminate your data story.
 
-Whether you're curious about my [visual storytelling and analytics projects]({{ site.baseurl }}/what/) or want to chat about a potential collaboration, you can find me here:
+Whether you're curious about my [visual storytelling and analytics projects]({{ site.baseurl }}/what/) or want to chat about a potential collaboration, connect with me here:
 
 <div class="social-icons">
   <a href="https://linkedin.com/in/jennchin" target="_blank" aria-label="LinkedIn profile: Jennifer Chin">
@@ -38,5 +38,8 @@ Whether you're curious about my [visual storytelling and analytics projects]({{ 
   </a>
   <a href="https://github.com/SheHasMoxie" target="_blank" aria-label="GitHub profile: SheHasMoxie">
     <img src="/assets/images/social/github.png" alt="GitHub logo" />
+  </a>
+  <a href="https://cal.com/jennchin" target="_blank" aria-label="Schedule a meeting with Jennifer Chin">
+    <img src="/assets/images/social/calendar.png" alt="Calendar icon for booking a chat" />
   </a>
 </div>
