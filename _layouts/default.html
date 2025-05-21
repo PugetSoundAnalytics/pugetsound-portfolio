@@ -114,7 +114,7 @@
 </head>
 <body>
   <header><div class="wrapper">{% include header.html %}</div></header>
-  <div class="wrapper">
+  <main class="wrapper" role="main">
     <section>{{ content }}</section>
     <footer>
       <p>{{ site.title }} maintained by <a href="{{ site.github.owner_url }}" style="color:#9cf;">{{ site.github.owner_name }}</a></p>
@@ -124,7 +124,7 @@
         <a href="/feed.xml">RSS Feed URL</a> (Right-click, copy, and paste into your favorite RSS reader app)
       </p>
     </footer>
-  </div>
+  </main>
 
 </body>
 </html>
