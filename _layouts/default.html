@@ -116,15 +116,17 @@
   <div class="wrapper">{% include header.html %}</div>
   <main class="wrapper" role="main">
     <section>{{ content }}</section>
-    <footer role="contentinfo">
+  </main>
+  
+  <footer role="contentinfo">
+    <div class="wrapper">
       <p>{{ site.title }} maintained by <a href="{{ site.github.owner_url }}" style="color:#9cf;">{{ site.github.owner_name }}</a></p>
       <p>Published with <a href="https://pages.github.com" style="color:#9cf;">GitHub Pages</a> | <a href="/pages/privacy-policy">Privacy Policy</a></p>
       <p>
         📡 <strong>Subscribe via RSS:</strong>
         <a href="/feed.xml">RSS Feed URL</a> (Right-click, copy, and paste into your favorite RSS reader app)
       </p>
-    </footer>
-  </main>
-
+     </div>
+  </footer>
 </body>
 </html>
