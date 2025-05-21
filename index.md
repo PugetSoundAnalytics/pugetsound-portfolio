@@ -27,6 +27,9 @@ If you're seeking data visualization with a dash of creativity, AI-enhanced anal
       <a href="https://github.com/SheHasMoxie" target="_blank" aria-label="GitHub profile for Jenn Chin (SheHasMoxie)">
         <img src="/assets/images/social/github.png" alt="GitHub profile: SheHasMoxie aka Jenn Chin" />
       </a>
+      <a href="https://cal.com/jennchin" target="_blank" aria-label="Schedule a meeting with Jennifer Chin">
+        <img src="/assets/images/social/calendar.png" alt="Schedule a chat with Jennifer Chin" />
+      </a>
     </div>
   </div>
 
