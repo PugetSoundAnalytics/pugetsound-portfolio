@@ -41,10 +41,10 @@ A living list of the tools, platforms, and services used across the PSA analytic
 
 | Tool | Purpose | Notes |
 |------|---------|-------|
-| Axe DevTools | Accessibility auditing | Browser extension for testing WCAG compliance, landmark use, alt text, etc. |
-| Lighthouse | Performance + accessibility audits | Built into Chrome DevTools; useful for real-time audits and scoring |
-| WebAIM Contrast Checker | Manual contrast testing | Verifies WCAG-compliant color contrast for text/background |
-| WAVE Tool | Visual accessibility analysis | Highlights accessibility issues with color-coded overlays |
+| [Axe DevTools](https://www.deque.com/axe/devtools/) | Accessibility auditing | Browser extension for testing WCAG compliance, landmark use, alt text, etc. |
+| [Lighthouse](https://developers.google.com/web/tools/lighthouse/) | Performance + accessibility audits | Built into Chrome DevTools; useful for real-time audits and scoring |
+| [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) | Manual contrast testing | Verifies WCAG-compliant color contrast for text/background |
+| [WAVE](https://wave.webaim.org/) | Visual accessibility analysis | Highlights accessibility issues with color-coded overlays |
 
 ---
 
