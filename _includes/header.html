@@ -1,14 +1,16 @@
 <header role="banner">
-  <a href="{{ site.baseurl }}/" aria-label="Puget Sound Analytics home" style="text-decoration: none;">
-    <div style="display: flex; align-items: center;">
+  <div class="wrapper" style="display: flex; align-items: center;">
+    <a href="{{ site.baseurl }}/" aria-label="Puget Sound Analytics home">
       <img class="logo" src="{{ site.logo }}" alt="Puget Sound Analytics logo">
       <h1 class="site-title">{{ site.title }}</h1>
-    </div>
-  </a>
-  <p>{{ site.description }}</p>
-  <nav role="navigation">
-    <a href="{{ '/who/' | relative_url }}">WHO</a> |
-    <a href="{{ '/what/' | relative_url }}">WHAT</a> |
-    <a href="{{ '/why/' | relative_url }}">WHY</a>
-  </nav>
+    </a>
+  </div>
+  <div class="wrapper">
+    <p>{{ site.description }}</p>
+    <nav role="navigation">
+      <a href="{{ '/who/' | relative_url }}">WHO</a> |
+      <a href="{{ '/what/' | relative_url }}">WHAT</a> |
+      <a href="{{ '/why/' | relative_url }}">WHY</a>
+    </nav>
+  </div>
 </header>
