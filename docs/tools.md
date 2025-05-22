@@ -37,6 +37,17 @@ A living list of the tools, platforms, and services used across the PSA analytic
 
 ---
 
+## ♿ Accessibility & Testing Tools
+
+| Tool | Purpose | Notes |
+|------|---------|-------|
+| Axe DevTools | Accessibility auditing | Browser extension for testing WCAG compliance, landmark use, alt text, etc. |
+| Lighthouse | Performance + accessibility audits | Built into Chrome DevTools; useful for real-time audits and scoring |
+| WebAIM Contrast Checker | Manual contrast testing | Verifies WCAG-compliant color contrast for text/background |
+| WAVE Tool | Visual accessibility analysis | Highlights accessibility issues with color-coded overlays |
+
+---
+
 ## 📌 Notes to Future Jenn
 
 - Keep icon source files backed up!
