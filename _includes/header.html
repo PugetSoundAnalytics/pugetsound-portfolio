@@ -1,10 +1,10 @@
 <header role="banner">
-  <div style="display: flex; align-items: center;">
-    <a href="{{ site.baseurl }}/" aria-label="Puget Sound Analytics home">
+  <a href="{{ site.baseurl }}/" aria-label="Puget Sound Analytics home" style="text-decoration: none;">
+    <div style="display: flex; align-items: center;">
       <img class="logo" src="{{ site.logo }}" alt="Puget Sound Analytics logo">
-    </a>
-    <h1 style="margin-left: 10px;">{{ site.title }}</h1>
-  </div>
+      <h1 class="site-title">{{ site.title }}</h1>
+    </div>
+  </a>
   <p>{{ site.description }}</p>
   <nav role="navigation">
     <a href="{{ '/who/' | relative_url }}">WHO</a> |
