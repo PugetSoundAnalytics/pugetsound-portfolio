@@ -30,39 +30,167 @@
     footer { padding: 10px 0; color: #fff; background-color: #212121; font-size: small; }
     .wrapper { width: 90%; max-width: 860px; margin: 0 auto; }
     section { padding: 20px 0; background-color: #fff; color: #212121; }
-    img.logo { height: 100px;  margin-right: 10px;  border: none !important;  outline: none !important;  box-shadow: none !important;}
-    header h1 { margin: 0; font-weight: 700; }
-    header div { display: flex; align-items: center; gap: 10px; }
-    header a { color: #fff; text-decoration: none; }
-    header p,
-    header nav a { color: #fff;}
-    header nav a:hover { color: #9cf;}
+  
+    /* HEADER LAYOUT */
+    .header-flex {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+  
+    .site-meta {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  
+    .site-title {
+      color: #fff;
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin: 0;
+    }
+  
+    .tagline {
+      color: #fff;
+      margin: 4px 0 0 0;
+      font-size: 1rem;
+    }
+  
+    .topnav a {
+      color: #9cf;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 0 5px;
+    }
+  
+    .topnav a:hover {
+      color: #fff;
+    }
+  
+    img.logo {
+      height: 100px;
+      margin-right: 10px;
+      border: none !important;
+      outline: none !important;
+      box-shadow: none !important;
+    }
+  
+    a:hover .logo {
+      opacity: 0.7;
+    }
+  
+    /* GENERAL STYLES */
     h1, h2, h3 { font-family: 'Montserrat', sans-serif; font-weight: 600; }
     p { font-family: 'Montserrat', sans-serif; }
+  
     nav { margin-top: 10px; }
     nav a { color: #9cf; text-decoration: none; font-weight: 600; padding: 0 5px; }
     nav a:hover { color: #fff; }
-    .cta-container { display: flex; align-items: flex-start; gap: 15px; margin: 20px 0; flex-wrap: wrap; }
-    .cta-button { padding: 8px 16px; background-color: #212121; color: #fff; border-radius: 4px; text-decoration: none; }
-    .cta-button:hover { background-color: #9cf; color: #212121; }
-    .social-icons { display: flex; gap: 10px; }
-    .social-icons img { width: 32px; height: 32px; }
-    .social-icons a img:hover {opacity: 0.7;  }
-    img.homepage-preview { width: 100%; max-width: 450px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
-    a .homepage-preview {transition: transform 0.3s ease, box-shadow 0.3s ease;  }
-    a:hover .homepage-preview {transform: translateY(-5px);  box-shadow: 0 6px 15px rgba(0,0,0,0.2);   }
-    @media (max-width:600px) { header div { flex-direction: column; gap: 8px; text-align: center;} img.logo { margin-right:0;} }
-    .portfolio-grid { display: grid; gap: 20px;  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); margin-bottom: 30px;  }
-    .card { background:#fff; border-radius:8px; overflow:hidden; box-shadow:0 4px 10px rgba(0,0,0,0.1); }
-    .card-thumb { width:100%; height:auto; display:block; }
-    .card h3 { margin: 12px 16px 8px; font-size: 1.25rem; }
-    .card p { margin:0 16px 16px; line-height:1.5; }
-    /* Portfolio card hover effect */
-    .card {transition: transform 0.3s ease, box-shadow 0.3s ease;    }
-    .card:hover {transform: translateY(-5px); box-shadow: 0 6px 15px rgba(0,0,0,0.2);    }
-    .site-title {color: #fff;  font-size: 1.75rem;  font-weight: 700;  margin: 0;}
-    a:hover .logo { opacity: 0.7;    }
-
+  
+    .cta-container {
+      display: flex;
+      align-items: flex-start;
+      gap: 15px;
+      margin: 20px 0;
+      flex-wrap: wrap;
+    }
+  
+    .cta-button {
+      padding: 8px 16px;
+      background-color: #212121;
+      color: #fff;
+      border-radius: 4px;
+      text-decoration: none;
+    }
+  
+    .cta-button:hover {
+      background-color: #9cf;
+      color: #212121;
+    }
+  
+    .social-icons {
+      display: flex;
+      gap: 10px;
+    }
+  
+    .social-icons img {
+      width: 32px;
+      height: 32px;
+    }
+  
+    .social-icons a img:hover {
+      opacity: 0.7;
+    }
+  
+    img.homepage-preview {
+      width: 100%;
+      max-width: 450px;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+  
+    a .homepage-preview {
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+  
+    a:hover .homepage-preview {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+    }
+  
+    .portfolio-grid {
+      display: grid;
+      gap: 20px;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      margin-bottom: 30px;
+    }
+  
+    .card {
+      background: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+  
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+    }
+  
+    .card-thumb {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+  
+    .card h3 {
+      margin: 12px 16px 8px;
+      font-size: 1.25rem;
+    }
+  
+    .card p {
+      margin: 0 16px 16px;
+      line-height: 1.5;
+    }
+  
+    /* Mobile */
+    @media (max-width: 600px) {
+      .header-flex {
+        flex-direction: column;
+        text-align: center;
+      }
+  
+      .site-meta {
+        align-items: center;
+      }
+  
+      .logo {
+        margin: 0 auto;
+      }
+    }
   </style>
 
   <!-- Google Analytics -->
