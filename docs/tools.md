@@ -46,6 +46,7 @@ A living list of the tools, platforms, and services used across the PSA analytic
 | [Lighthouse](https://developers.google.com/web/tools/lighthouse/) | Performance + accessibility audits | Built into Chrome DevTools; useful for real-time audits and scoring |
 | [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) | Manual contrast testing | Verifies WCAG-compliant color contrast for text/background |
 | [WAVE](https://wave.webaim.org/) | Visual accessibility analysis | Highlights accessibility issues with color-coded overlays |
+| [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/) | Color Blindness Simulator | Checks 8 different types of color blindness |
 
 ---
 
