@@ -9,11 +9,12 @@ A living list of the tools, platforms, and services used across the PSA analytic
 | Tool | Purpose | Notes |
 |------|---------|-------|
 | Power BI | Data Visualization | Core dashboard tool |
+| Tableau | Data Visualization | [Tableau Public Profile](https://public.tableau.com/app/profile/jennifer.chin1160) |
 | GitHub Pages | Portfolio Hosting | Static site + version control |
-| Cal.com | Scheduling | Linked from email + LinkedIn |
+| Cal.com | Scheduling | [Profile](https://cal.com/jennchin) - Linked from email + LinkedIn + gravatar |
 | Jitsi | Video Conferencing | Privacy-first meetings via Cal.com |
 | ProtonMail | Email & Privacy | Domain email via Proton |
-| LinkedIn | Professional Networking | Primary social touchpoint |
+| LinkedIn | Professional Networking | Primary social touchpoint [Profile Link](https://www.linkedin.com/in/jennchin/) |
 
 ---
 
