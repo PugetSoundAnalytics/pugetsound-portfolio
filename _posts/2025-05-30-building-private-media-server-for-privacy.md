@@ -7,7 +7,7 @@ excerpt: "Discover how building a personal media server reclaimed my privacy and
 ---
 
 <div style="display: flex; align-items: flex-end; gap: 20px; margin-bottom: 40px; flex-wrap: wrap;">
-  <img src="assets/images/plex-media-server-dashboard.png" 
+  <img src="../assets/images/plex-media-server-dashboard.png" 
        alt="Plex Media Server Dashboard showcasing private music collection"
        style="width: 300px; height: auto;">
 
