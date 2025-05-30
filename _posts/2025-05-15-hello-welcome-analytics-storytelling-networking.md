@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Hello & Welcome! Adventures in Analytics, Storytelling, and Authentic Networking"
 date: 2025-05-15 08:00:00 -0700
 published: true
