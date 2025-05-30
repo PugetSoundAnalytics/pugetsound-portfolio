@@ -5,7 +5,14 @@ date: 2025-05-15 08:00:00 -0700
 published: false
 excerpt: "Discover how building a personal media server reclaimed my privacy and why managing your media is exactly like mastering data analytics."
 ---
-# Taking Back Control: My Journey From Cloud Chaos to Private Media Clarity
+
+<div style="display: flex; align-items: flex-end; gap: 20px; margin-bottom: 40px; flex-wrap: wrap;">
+  <img src="assets/images/plex-media-server-dashboard.png" 
+       alt="Plex Media Server Dashboard showcasing private music collection"
+       style="width: 300px; height: auto;">
+
+  <h1 style="margin: 0; flex: 1; min-width: 200px;">Taking Back Control: My Journey From Cloud Chaos to Private Media Clarity</h1>
+</div>
 
 Over the past week, I tackled a personal tech project that's been lingering on my to-do list for far too long. My music collection had ballooned into a sprawling mess, scattered across various cloud services and storage devices. Initially, the cloud was liberating—I could enjoy my favorite songs anytime, anywhere. But then came the inevitable "feature updates," restrictions, and increasingly intrusive tracking. The final straw? Having to mirror my phone to speakers just to listen to my own music. Enough was enough—I decided it was time to build my own home media server. Surprisingly, this journey was remarkably similar to my work in data analytics. Let me explain:
 
