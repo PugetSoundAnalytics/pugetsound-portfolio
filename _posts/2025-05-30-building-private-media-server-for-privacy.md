@@ -2,7 +2,7 @@
 layout: post
 title: "Taking Back Control: How Building My Own Media Server Gave Me Ultimate Privacy and Freedom"
 date: 2025-05-15 08:00:00 -0700
-published: false
+published: true
 excerpt: "Discover how building a personal media server reclaimed my privacy and why managing your media is exactly like mastering data analytics."
 ---
 
