@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index, follow" />
+  <meta name="description" content="Data driven stories, a human way to deliver business insight today and tomorrow.">
+  <meta property="og:title"         content="{{ page.title | default: site.title }}" />
+  <meta property="og:description"   content="{{ page.description | default: site.description }}" />
+  <meta property="og:url"           content="https://pugetsoundanalytics.com{{ page.url }}" />
+  <meta property="og:image"         content="https://pugetsoundanalytics.com/assets/images/og-image.png" />
+  <meta name="twitter:card"         content="summary_large_image" />
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
+  <link rel="canonical" href="https://pugetsoundanalytics.com{{ page.url | replace:'/index.html','/' }}" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" media="print" onload="this.media='all'">
+  <noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap">
+  </noscript>
+
+  <style>
+    body { font-family: 'Montserrat', sans-serif; background-color: #f7f7f7; margin: 0; padding: 0; }
+    header { padding: 20px 0; color: #fff; background-color: #212121; }
+    footer { padding: 10px 0; color: #fff; background-color: #212121; font-size: small; }
+    .wrapper { width: 90%; max-width: 860px; margin: 0 auto; }
+    section { padding: 20px 0; background-color: #fff; color: #212121; }
+  
+    /* HEADER LAYOUT */
+    .header-flex {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+  
+    .site-meta {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  
+    .site-title {
+      color: #fff;
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin: 0;
+    }
+  
+    .tagline {
+      color: #fff;
+      margin: 4px 0 0 0;
+      font-size: 1rem;
+    }
+  
+    .topnav a {
+      color: #9cf;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 0 5px;
+    }
+  
+    .topnav a:hover {
+      color: #fff;
+    }
+  
+    img.logo {
+      height: 100px;
+      margin-right: 10px;
+      border: none !important;
+      outline: none !important;
+      box-shadow: none !important;
+    }
+  
+    a:hover .logo {
+      opacity: 0.7;
+    }
+  
+    /* GENERAL STYLES */
+    h1, h2, h3 { font-family: 'Montserrat', sans-serif; font-weight: 600; }
+    p { font-family: 'Montserrat', sans-serif; }
+  
+    nav { margin-top: 10px; }
+    nav a { color: #9cf; text-decoration: none; font-weight: 600; padding: 0 5px; }
+    nav a:hover { color: #fff; }
+  
+    .cta-container {
+      display: flex;
+      align-items: flex-start;
+      gap: 15px;
+      margin: 20px 0;
+      flex-wrap: wrap;
+    }
+  
+    .cta-button {
+      padding: 8px 16px;
+      background-color: #212121;
+      color: #fff;
+      border-radius: 4px;
+      text-decoration: none;
+    }
+  
+    .cta-button:hover {
+      background-color: #9cf;
+      color: #212121;
+    }
+  
+    .social-icons {
+      display: flex;
+      gap: 10px;
+    }
+  
+    .social-icons img {
+      width: 32px;
+      height: 32px;
+    }
+  
+    .social-icons a img:hover {
+      opacity: 0.7;
+    }
+  
+    img.homepage-preview {
+      width: 100%;
+      max-width: 450px;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+  
+    a .homepage-preview {
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+  
+    a:hover .homepage-preview {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+    }
+  
+    .portfolio-grid {
+      display: grid;
+      gap: 20px;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      margin-bottom: 30px;
+    }
+  
+    .card {
+      background: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+  
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 15px rgba(0,0,0,0.2);
+    }
+  
+    .card-thumb {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+  
+    .card h3 {
+      margin: 12px 16px 8px;
+      font-size: 1.25rem;
+    }
+  
+    .card p {
+      margin: 0 16px 16px;
+      line-height: 1.5;
+    }
+    
+    footer a {
+      color: #9cf;
+      text-decoration: none;
+    }
+    
+    footer a:hover,
+    footer a:focus {
+      color: #fff;
+    }
+
+    /* Mobile */
+    @media (max-width: 600px) {
+      .header-flex {
+        flex-direction: column;
+        text-align: center;
+      }
+  
+      .site-meta {
+        align-items: center;
+      }
+  
+      .logo {
+        margin: 0 auto;
+      }
+    }
+  </style>
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-M8N4ST4KV1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-M8N4ST4KV1', { 'anonymize_ip': true });
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Jennifer Chin",
+    "url": "https://pugetsoundanalytics.com",
+    "jobTitle": "Data Analyst & Visualization Artist",
+    "sameAs": [
+      "https://www.linkedin.com/in/jennchin/",
+      "https://github.com/SheHasMoxie"
+    ]
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Portfolio Dashboards",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Revenue Dashboard",
+        "url": "https://pugetsoundanalytics.com/dashboards/revenue-dashboard"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "HR Dashboard",
+        "url": "https://pugetsoundanalytics.com/dashboards/hr-dashboard"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Marketing Dashboard",
+        "url": "https://pugetsoundanalytics.com/dashboards/marketing-dashboard"
+      }
+    ]
+  }
+  </script>
+  
+</head>
+<body>
+  {% include header.html %}
+  <main class="wrapper" role="main">
+    <section>{{ content }}</section>
+    
+    <!-- Giscus commenting integration -->  
+    <script src="https://giscus.app/client.js"
+            data-repo="PugetSoundAnalytics/pugetsound-portfolio"
+            data-repo-id="R_kgDOOnWFvw"
+            data-category="Announcements"
+            data-category-id="DIC_kwDOOnWFv84Cqzxq"
+            data-mapping="pathname"
+            data-strict="0"
+            data-reactions-enabled="1"
+            data-emit-metadata="0"
+            data-input-position="top"
+            data-theme="preferred_color_scheme"
+            data-lang="en"
+            data-loading="lazy"
+            crossorigin="anonymous"
+            async>
+    </script>
+  </main>
+  
+  <footer role="contentinfo">
+    <div class="wrapper">
+      <p>{{ site.title }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      <p>Published with <a href="https://pages.github.com">GitHub Pages</a> | <a href="/pages/privacy-policy">Privacy Policy</a></p>
+      <p>
+        📡 <strong>Subscribe via RSS:</strong>
+        <a href="/feed.xml">RSS Feed URL</a> (Right-click, copy, and paste into your favorite RSS reader app)
+      </p>
+    </div>
+  </footer>
+</body>
+</html>
