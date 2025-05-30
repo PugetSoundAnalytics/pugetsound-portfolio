@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Taking Back Control: How Building My Own Media Server Gave Me Ultimate Privacy and Freedom"
 date: 2025-05-15 08:00:00 -0700
 published: false
