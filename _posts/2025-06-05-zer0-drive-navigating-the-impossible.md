@@ -7,7 +7,7 @@ excerpt: "How creative thinking, even around 'impossible' concepts like zero, en
 ---
 
 <div style="display: flex; align-items: flex-end; gap: 20px; margin-bottom: 40px; flex-wrap: wrap;">
-  <img src="/assets/images/plex-media-server-dashboard.png" 
+  <img src="assets/images/placeholder.jpg" 
        alt="alt text here"
        style="width: 350px; height: auto;">
 
