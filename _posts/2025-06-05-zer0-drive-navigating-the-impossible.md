@@ -3,67 +3,70 @@ layout: post
 title: "Zer0 Drive: Navigating the Impossible in Analytics"
 date: 2025-06-05 08:00:00 -0700
 published: false
-excerpt: "How creative thinking, even around 'impossible' concepts like zero, enriches analytics."
+excerpt: "Explore how imaginative thinking and creative problem-solving around the 'impossible' concept of zero can transform analytics from errors into infinite possibilities."
 ---
 
 <div style="display: flex; align-items: flex-end; gap: 20px; margin-bottom: 40px; flex-wrap: wrap;">
   <img src="/assets/images/placeholder.jpg" 
-       alt="alt text here"
+       alt="Zero Drive concept illustration representing creative solutions in analytics"
        style="width: 350px; height: auto;">
 
   <h1 style="margin: 0; flex: 1; min-width: 200px;">Zer0 Drive: Navigating the Impossible in Analytics</h1>
 </div>
 
 
-If you ask me about zero, my brain catches fire. I blame the episode [Radiolab - Zeroworld](https://radiolab.org/podcast/zeroworld/transcript) and their chat with Karim Ani, where they talk about dividing by zero. 
+Ask me about zero, and my brain ignites. It all began with the [Radiolab episode 'Zeroworld'](https://radiolab.org/podcast/zeroworld/transcript) and their fascinating discussion with Karim Ani about dividing by zero. 
 
-Yes my friend, if you've worked with numbers for even a short while you will run into this phenom; it is not the stopping point, but the beginning of a journey into creative problem solving and solutioning - there are many reasons why divide by zero happens and how - and each has a multiverse of solutions to choose from.
+Yes my friend, if you've worked with numbers for even a short while you will run into this phenom; it is not the stopping point, but the beginning of a journey into creative analytics problem-solving and solutioning - there are many reasons why divide by zero happens and how - and each has a multiverse of solutions to choose from.
 
 ## Facing down the Zero Error in Analytics
-*By far the most useful syntax is along the lines of IFERROR(numerator/denominator,0)*
 
-The zero error can rear it's ugly head in many different ways, and while not an exhaustive list, these are the top three I've run into:
+The zero error can rear its ugly head in many different ways, and while not an exhaustive list, these are the top three I've run into:
 
-  - Beginning of the **insert time reference here** (zero divided by zero)
-    For me, this came up in sales dashboards - at the beginning of a quarter, there'd be no data for the current quarter for the individual/team/or company. Imagine a dashboard full of errors where just yesterday each salesperson could see how they ranked against their team, division, and company - like a thoroughbred at the kentucky derby. 
+  - Beginning of the **insert time reference here** *(zero divided by zero)*
+    
+    For instance, in sales dashboards, at the start of a quarter, there would often be no current-quarter data available, resulting in errors where clear rankings appeared just a day prior. 
     - If the data has a lag to it, make sure the report's date moves with that population in mind, for instance if the time lag is one day, use today()-1 or max(date)
     
-  - Goal/Budget/Forecast not approved/loaded/etc yet (actual divided by zero/null)
+  - Goal/Budget/Forecast not approved/loaded/etc yet *(actual divided by zero/null)*
     - you can use error handling for this, however even better is adding some logic or annotation to inform why. "Budget for Q3 is forthcoming"
   
-  - Upstream data issue (the unexpected zero)
+  - Upstream data issue *(the unexpected zero)*
+    
     This is frequently the beginning of research and the surfacing of an opportunity - how do we protect the system when:
-    - The servers are bounced unexectedly and all data loads stop and the dbs rollback, or worse yet they don't rollback and have incomplete data
+    - The servers are bounced unexpectedly and all data loads stop and the dbs rollback, or worse yet they don't rollback and have incomplete data
     - Human keying error
     - Work process breakdown (either manual or automated)
       
     In many cases, these types of situations necessitate the creation of alerts and/or audit reports to show sources tick and tie together
 
+**TL;DR** *By far the most useful syntax for handling divide by zero errors is IFERROR(numerator/denominator,0)*
+
 ## Turning Numbers Inside-Out
-*What if dividing by zero, doesn't cause and error, but turns numbers inside-out?*
+*What if the zero division error, doesn't atually cause an error, but turns numbers inside-out?*
 
-Our ship, Intrepid, is the first in the fleet to to get **Zer0 Drive**. Intrepid is the crack force ready to travel at a moments notice, and will be ready on-site to help within minutes of your call. While we are the best at what we do, it's really the **Zer0 Drive** that has enabled our SLA to be as close to instantaneous as you can get. I don't understand the mechanics of it, but the chief engineer explained it like so: you're wearing a sweater, and because are wearing it, we can both agree, you are inside it, and everything is outside it, but then you take the sweater and pull it up over your head flipping everything outside in, you are still inside the sweater (because the inside is now outside), but now, any point outside the sweater can touch any other point outside the sweater - because the outside is in, you can then get any the two points to touch and then flip the sweater back down over your head. They talked on and on in technical jargon, but the gist is space-time folds enabling instantanious travel, all thanks to some esoteric research done on zero and how any given integer [is bigger on the inside](https://en.wikipedia.org/wiki/TARDIS).
+Our ship, Intrepid, is the first in the fleet to to get **Zer0 Drive**. Intrepid is the crack force ready to travel at a moments notice, and will be ready on-site to help within minutes of your call. While we are the best at what we do, it's really the **Zer0 Drive** that has enabled our SLA to be as close to instantaneous as you can get. I don't understand the mechanics of it, but the chief engineer explained it like so: yImagine wearing a sweater; normally, you're inside, and everything else is outside. Now picture pulling that sweater over your head, flipping it inside out. Suddenly, the outside becomes inside, allowing any two points on the original outside to touch. They continued ad nauseam in excrutiating technical detail, but the gist is space-time folds enabling instantanious travel, all thanks to some esoteric research done on zero and how any given integer [is bigger on the inside](https://en.wikipedia.org/wiki/TARDIS).
 
-Analytic insights are fueled by challenge - when actively engaging with constraints you can transform them into possibilities. This is the very basis of managing by exception (for instance: sending alerts instead of looking at everything all at once). When you are faced with a bowl of lemons, think about how great that lemonaide will taste once you slice into it.
+Analytic insights are fueled by challenge - when actively engaging with constraints you can transform them into possibilities. This is the very basis of managing by exception (for instance: sending alerts instead of looking at everything all at once). When you are faced with a bowl of lemons, think about how great that lemonade will taste once you slice into it.
 
 ## In Case of Emergency - Break Glass
-*What if dividing by zero, could be an emergency-only and ultimately self-distructive perpetual motion generator?*
+*What if the zero division error could be harnessed as an emergency-only and ultimately self-distructive perpetual motion generator?*
 
-Our ship, Intrepid, is the coziest zeplin of any I've seen - and I've seen a few. Apparently pirates are just as adept at noticing the coziest zeplin this side of the meridean as I; as unfortunately, pirates have spotted us cruising lazily over the Seychelles and are closing fast. The wind is not in our favor, but fear not, we have prepared for this moment. Get ready with the oil can, once I break the glass and pull the **Zer0 Drive** lever, our engine will start a [furious nonstop loop of activity](https://www.youtube.com/watch?v=JU9ICaPZUCg) that will only stop when we run out of petrol or it pulls itself appart. You'll keep the cogs oiled, I'll keep the fuel flowing and will navigate around any mountain peaks on our mad dash. Once they fall past the horizon, we'll change course and hide in a cloud. Yes, I have cloud seeding solution if there aren't any about when we get there, but that's for later, for now let's keep focused on the problem at hand.
+Our ship, Intrepid, is the coziest zeppelin I've seen — and the *Dred Pirate Roberts* has unfortunately noticed this, spotting us over the Seychelles and is rapidly closing in. The wind is not in our favor, but fear not, we have prepared for this moment. Get ready with the oil can, once I break the glass and pull the **Zer0 Drive** lever, our engine will start a [furious nonstop loop of activity](https://www.youtube.com/watch?v=JU9ICaPZUCg) that will only stop when we run out of petrol or it pulls itself apart. You'll keep the cogs oiled, I'll keep the fuel flowing and will navigate around any mountain peaks on our mad dash. Once they fall past the horizon, we'll change course and hide in a cloud. Yes, I have cloud seeding solution if there aren't any about when we get there, but that's for later, for now let's keep focused on the problem at hand.
 
 The most creative solutions come about from necessity. While not ideal, a quick and dirty win can turn the tide. If the MVP is crude, but is able to get you past the hurdle, and is the best to be done with the alotted resources, **AND** your stakeholders understand the trade-offs being made to get to the finish line, do it. When your brain is on fire, you need to go to the emergency room, not schedule an appointment with a neurologist.
 
 ## Networking Gone Wild 
-*What if listening to a podcast about dividing by zero caused you to send a cringy fan-girl message*
+*What if listening to a podcast about zero division caused you to send a cringy fan-girl message*
 
-I, your Intrepid blog hostest, is sadly guilty of taking advantage of a free trial of LinkedIn Premium so I could send a fan-girl message to Karim Ani encouraging him to pick up this research again. Remember back when you were a kid, and you learned about counting by tens, and you would have 0 to 100 counting contests during recess, and the rules were you could count by tens, but counting by anything greater was cheating, and you would scream the numbers in such quick succession at eachother they just about merged into one word? **I am such a geek** Anyway, think about that child-like excitement filling your being at the idea of the infinity of zero and all the possibilities, and wanting the person who thought they may sometime "sit in the desert and meditate" on a new math that starts with dividing by zero, to do it. ---> **me** <---
+I, your Intrepid blog hostess, am sadly guilty of taking advantage of a free trial of LinkedIn Premium so I could send a fan-girl message to Karim Ani encouraging him to pick up this research again. Remember back when you were a kid, and you learned about counting by tens, and you would have 0 to 100 counting contests during recess, and the rules were you could count by tens, but counting by anything greater was cheating, and you would scream the numbers in such quick succession at eachother they just about merged into one word? **I am such a geek** Anyway, think about that child-like excitement filling your being at the idea of the infinity of zero and all the possibilities, and wanting the person who thought they may sometime "sit in the desert and meditate" on a new math that starts with dividing by zero, to pursue this idea further. Yep, that excited fangirl was **me**.
 
 This story - is a prime example of what **NOT** to do when intending to make a meaningful connection with someone. I've been threatening to write a post about "How to Take the Creepy Ick-Factor out of Networking," but I had to come clean on this first. And, upon reflection, shows the usual lengths one might go to out of curiosity and passion in analytics and storytelling.
 
 ## Insight: Infinite Possibilities Abound
-Creative thinking and risk taking, especially around "impossible" concepts like zero, enriches analytics. When you're stcuck on a concept or bit of code, take a walk to let a little whimsy into your journey. The oddest thought or pop culture quip from a colleague may be all you need to get you back on track.
+Creative thinking, storytelling, and risk taking, especially around "impossible" concepts like zero, enriches analytics. When you're stuck on a concept or bit of code, take a walk to let a little whimsy into your journey. The oddest thought or pop culture quip from a colleague may be all you need to get you back on track.
 
-Thoughts on dividing by zero? Infinity? Are in the middle of building or writing about any of the machines I've mentioned? Epic zero handling tricks? 
+Have thoughts on dividing by zero or exploring infinity? Building or writing about similar imaginative analytics concepts? Have epic zero-handling tips? 
 
 I want to know about it! Please do comment below 😊
 
