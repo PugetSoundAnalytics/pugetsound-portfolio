@@ -20,10 +20,24 @@ If you ask me about zero, my brain catches fire. I blame the episode [Radiolab -
 Yes my friend, if you've worked with numbers for even a short while you will run into this phenom; it is not the stopping point, but the beginning of a journey into creative problem solving and solutioning - there are many reasons why divide by zero happens and how - and each has a multiverse of solutions to choose from.
 
 ## Facing down the Zero Error in Analytics
+*By far the most useful syntax is along the lines of IFERROR(numerator/denominator,0)*
+
 The zero error can rear it's ugly head in many different ways, and while not an exhaustive list, these are the top three I've run into:
+
   - Beginning of the **insert time reference here** (zero divided by zero)
+    For me, this came up in sales dashboards - at the beginning of a quarter, there'd be no data for the current quarter for the individual/team/or company. Imagine a dashboard full of errors where just yesterday each salesperson could see how they ranked against their team, division, and company - like a thoroughbred at the kentucky derby. 
+    - If the data has a lag to it, make sure the report's date moves with that population in mind, for instance if the time lag is one day, use today()-1 or max(date)
+    
   - Goal/Budget/Forecast not approved/loaded/etc yet (actual divided by zero/null)
+    - you can use error handling for this, however even better is adding some logic or annotation to inform why. "Budget for Q3 is forthcoming"
+  
   - Upstream data issue (the unexpected zero)
+    This is frequently the beginning of research and the surfacing of an opportunity - how do we protect the system when:
+    - The servers are bounced unexectedly and all data loads stop and the dbs rollback, or worse yet they don't rollback and have incomplete data
+    - Human keying error
+    - Work process breakdown (either manual or automated)
+      
+    In many cases, these types of situations necessitate the creation of alerts and/or audit reports to show sources tick and tie together
 
 ## Turning Numbers Inside-Out
 *What if dividing by zero, doesn't cause and error, but turns numbers inside-out?*
@@ -44,7 +58,12 @@ The most creative solutions come about from necessity. While not ideal, a quick 
 
 I, your Intrepid blog hostest, is sadly guilty of taking advantage of a free trial of LinkedIn Premium so I could send a fan-girl message to Karim Ani encouraging him to pick up this research again. Remember back when you were a kid, and you learned about counting by tens, and you would have 0 to 100 counting contests during recess, and the rules were you could count by tens, but counting by anything greater was cheating, and you would scream the numbers in such quick succession at eachother they just about merged into one word? **I am such a geek** Anyway, think about that child-like excitement filling your being at the idea of the infinity of zero and all the possibilities, and wanting the person who thought they may sometime "sit in the desert and meditate" on a new math that starts with dividing by zero, to do it. ---> **me** <---
 
-This story - is a prime example what not to do when intending to make meaningful connection with someone. I've been threatening to write a post about "How to Take the Creepy Ick-Factor out of Networking," but I had to come clean on this first. And, upon reflection, shows the usual lengths one might go to out of curiosity and passion in analytics and storytelling.
+This story - is a prime example of what **NOT** to do when intending to make a meaningful connection with someone. I've been threatening to write a post about "How to Take the Creepy Ick-Factor out of Networking," but I had to come clean on this first. And, upon reflection, shows the usual lengths one might go to out of curiosity and passion in analytics and storytelling.
 
-## Conclusion: Infinite Possibilities Abound
+## Insight: Infinite Possibilities Abound
+Creative thinking and risk taking, especially around "impossible" concepts like zero, enriches analytics. When you're stcuck on a concept or bit of code, take a walk to let a little whimsy into your journey. The oddest thought or pop culture quip from a colleague may be all you need to get you back on track.
+
+Thoughts on dividing by zero? Infinity? Are in the middle of building or writing about any of the machines I've mentioned? Epic zero handling tricks? 
+
+I want to know about it! Please do comment below 😊
 
