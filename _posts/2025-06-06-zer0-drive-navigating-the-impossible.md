@@ -25,19 +25,19 @@ The divide-by-zero error can surface in numerous ways. While not exhaustive, her
 
   - Beginning of a reporting period *(zero/null divided by zero/null)*  
     For example, in sales dashboards at the start of a quarter, there's often no data, leading to errors where clear rankings appeared just a day prior.  
-    - Adjust report dates to accommodate data lag, e.g., using today()-1 or max(date)
+      - Adjust report dates to accommodate data lag, e.g., using today()-1 or max(date)
     
   - Goal/Budget/Forecast not loaded *(non-zero number divided by zero/null)*
-    - Implement error handling or better yet, annotate the scenario clearly: "Budget for Q3 is forthcoming."
+      - Implement error handling or better yet, annotate the scenario clearly: "Budget for Q3 is forthcoming."
   
   - Upstream data issue *(the unexpected zero/null)*  
     These scenarios often signal deeper problems and opportunities for improvement.    
     Common issues include:
-    - Unexpected server restarts
-    - Data load failures
-    - Corrupted data 
-    - Human entry errors
-    - Process breakdowns (manual or automated)
+      - Unexpected server restarts
+      - Data load failures
+      - Corrupted data 
+      - Human entry errors
+      - Process breakdowns (manual or automated)
       
     Often, resolving these issues involves creating alerts or audit reports to ensure data integrity and consistency.
 
