@@ -7,7 +7,7 @@ excerpt: "Explore how imaginative thinking and creative problem-solving around t
 ---
 
 <div style="display: flex; align-items: flex-end; gap: 20px; margin-bottom: 40px; flex-wrap: wrap;">
-  <img src="/assets/images/placeholder.jpg" 
+  <img src="/assets/images/Zer0_Drive.webp" 
        alt="Zer0 Drive concept illustration representing creative solutions in analytics"
        style="width: 350px; height: auto;">
 
