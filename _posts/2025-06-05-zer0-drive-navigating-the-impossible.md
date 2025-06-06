@@ -8,7 +8,7 @@ excerpt: "Explore how imaginative thinking and creative problem-solving around t
 
 <div style="display: flex; align-items: flex-end; gap: 20px; margin-bottom: 40px; flex-wrap: wrap;">
   <img src="/assets/images/Zer0_Drive.webp" 
-       alt="Zer0 Drive concept illustration representing creative solutions in analytics"
+       alt="Abstract illustration symbolizing the complexity and creativity involved in zero-related analytics problems."
        style="width: 350px; height: auto;">
 
   <h1 style="margin: 0; flex: 1; min-width: 200px;">Zer0 Drive: Navigating the Impossible in Analytics</h1>
@@ -29,7 +29,7 @@ The zero error can rear its ugly head in many ways, and while not an exhaustive 
     - If there's a data lag, ensure the report's date accounts for that delay e.g., using use today()-1 or max(date)
     
   - Goal/Budget/Forecast not approved/loaded/etc. yet *(actual divided by zero/null)*
-    - you can use error handling for this, however, even better is adding some logic or annotation to inform why. "Budget for Q3 is forthcoming"
+    - You can use error handling for this, however, even better is adding some logic or annotation to inform why. "Budget for Q3 is forthcoming"
   
   - Upstream data issue *(the unexpected zero)*
     
@@ -64,7 +64,7 @@ I, your Intrepid blog hostess, am sadly guilty of taking advantage of a free tri
 This story - is a prime example of what **NOT** to do when intending to make a meaningful connection with someone. I've been threatening to write a post about "How to Take the Creepy Ick-Factor out of Networking," but I had to come clean on this first. And, upon reflection, shows the usual lengths one might go to out of curiosity and passion in analytics and storytelling.
 
 ## Insight: Infinite Possibilities Abound
-Creative analytical thinking, data storytelling, and strategic risk-taking, especially around "impossible" concepts like zero, enriches analytics. When you're stuck on a concept or bit of code, take a walk to let a little whimsy into your journey. The oddest thought or pop culture quip from a colleague may be all you need to get you back on track.
+Creative analytical thinking, data storytelling, and strategic risk-taking, especially around 'impossible' concepts like zero, strengthen your analytics error-handling toolkit. When you're stuck on a concept or bit of code, take a walk to let a little whimsy into your journey. The oddest thought or pop culture quip from a colleague may be all you need to get you back on track.
 
 Do you have experiences or unique insights about dividing by zero, innovative analytics solutions, or imaginative explorations into infinity?
 
