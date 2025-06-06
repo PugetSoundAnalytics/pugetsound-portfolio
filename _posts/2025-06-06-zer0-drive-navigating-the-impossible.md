@@ -28,7 +28,7 @@ The divide-by-zero error can surface in numerous ways. While not exhaustive, her
     - Adjust report dates to accommodate data lag, e.g., using today()-1 or max(date)
     
   - Goal/Budget/Forecast not loaded *(non-zero number divided by zero/null)*
-    - Implement error handling or better yet, annotate the scenario clearly: "Budget for Q3 is forthcoming.
+    - Implement error handling or better yet, annotate the scenario clearly: "Budget for Q3 is forthcoming."
   
   - Upstream data issue *(the unexpected zero/null)*  
     These scenarios often signal deeper problems and opportunities for improvement.    
