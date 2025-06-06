@@ -27,7 +27,7 @@ The zero error can rear its ugly head in many ways, and while not an exhaustive 
     
     For instance, in sales dashboards, at the start of a quarter, there would often be no current-quarter data available, resulting in errors where clear rankings appeared just a day prior. 
 
-    If there's a data lag, ensure the report's date accounts for that delay e.g., using use today()-1 or max(date)
+    If there's a data lag, ensure the report's date accounts for that delay e.g., using use today()-x or max(date)
     
   - Goal/Budget/Forecast not approved/loaded/etc. *(non-zero number divided by zero/null)*
 
