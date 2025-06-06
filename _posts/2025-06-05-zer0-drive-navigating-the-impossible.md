@@ -17,7 +17,7 @@ excerpt: "Explore how imaginative thinking and creative problem-solving around t
 
 Ask me about zero, and my brain ignites. It all began with the [Radiolab episode 'Zeroworld'](https://radiolab.org/podcast/zeroworld/transcript) and their fascinating discussion with Karim Ani about dividing by zero. 
 
-Yes, my friend, if you've worked with numbers for even a short while you will run into this phenom; it is not the stopping point, but the beginning of a journey into creative analytics problem-solving and solutions - there are many reasons why divide by zero happens and how - and each has a multiverse of solutions to choose from. You could say a large part of the job of creative data solutions hinges upon error handling analytics.
+Yes, my friend, if you've worked with numbers for even a short while you will run into this phenom; it is not the stopping point, but the beginning of a journey into creative analytical problem-solving and solutions - there are many reasons why and how divide by zero happens - and each has a multiverse of solutions to choose from. You could say a large part of the job of creative data solutions hinges upon error handling analytics.
 
 ## Facing down the Zero Error in Analytics
 
@@ -26,17 +26,22 @@ The zero error can rear its ugly head in many ways, and while not an exhaustive 
   - Beginning of the **insert time reference here** *(zero divided by zero)*
     
     For instance, in sales dashboards, at the start of a quarter, there would often be no current-quarter data available, resulting in errors where clear rankings appeared just a day prior. 
-    - If there's a data lag, ensure the report's date accounts for that delay e.g., using use today()-1 or max(date)
+
+    If there's a data lag, ensure the report's date accounts for that delay e.g., using use today()-1 or max(date)
     
-  - Goal/Budget/Forecast not approved/loaded/etc. yet *(actual divided by zero/null)*
-    - You can use error handling for this, however, even better is adding some logic or annotation to inform why. "Budget for Q3 is forthcoming"
+  - Goal/Budget/Forecast not approved/loaded/etc. *(non-zero number divided by zero/null)*
+
+    You can use error handling for this, however, even better is adding some logic or annotation to inform why e.g., "Budget for Q3 is forthcoming"
   
   - Upstream data issue *(the unexpected zero)*
     
-    This is frequently the beginning of research and the surfacing of an opportunity - how do we protect the system when:
-    - The servers are bounced unexpectedly, and all data loads stop and the dbs rollback, or worse yet they don't rollback and have incomplete data
-    - Human keying error
-    - Work process breakdown (either manual or automated)
+    This scenario frequently signals the start of deeper investigation and can surface valuable opportunities.  
+    Common issues include:  
+    - Unexpected server restarts
+    - Data load failures
+    - Currupted data 
+    - Human entry errors
+    - Process breakdowns (manual or automated)
       
     In many cases, these types of situations necessitate the creation of alerts and/or audit reports to show sources tick and tie together
 
