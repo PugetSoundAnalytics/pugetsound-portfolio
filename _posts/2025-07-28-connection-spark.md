@@ -30,7 +30,7 @@ We talk about “following up” like it’s a moral obligation. Let's reframe t
 
 Ask yourself: “Will this light me up or weigh me down?”
 
-Networking doesn’t have to be a hustle. It can be slow, mutual, and full of grace. You’re allowed to let a maybe fade into the background without it being a failure. Not every connection needs to produce something. For me, the value was being seen, doing a quick catch up talking to a peer I hadn't seen in a very long time, and laughing.
+Networking doesn’t have to be a hustle. It can be slow, mutual, and full of grace. You’re allowed to let a maybe fade into the background without it being a failure. Not every connection needs to produce something. For me, the value was being seen, doing a quick catch up talking to a peer I hadn't seen in a very long time, and laughing over shared observations of the analytics space.
 
 ## What I’m Learning
 - It’s okay to say yes to a possibility and still not pursue it.
