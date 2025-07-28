@@ -8,7 +8,7 @@ excerpt: "Networking without overcommitting your energy (or soul)"
 
 <div style="display: flex; align-items: flex-end; gap: 20px; margin-bottom: 40px; flex-wrap: wrap;">
   <img src="/assets/images/Zer0_Drive.webp" 
-       alt="Abstract illustration symbolizing the complexity and creativity involved in zero-related analytics problems."
+       alt="alt title here"
        style="width: 350px; height: auto;">
 
   <h1 style="margin: 0; flex: 1; min-width: 200px;">When Connection Is the Spark, But Not the Flame</h1>
