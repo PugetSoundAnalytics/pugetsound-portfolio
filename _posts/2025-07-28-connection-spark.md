@@ -2,7 +2,7 @@
 layout: post
 title: "When Connection Is the Spark, But Not the Flame"
 date: 2025-07-28 00:00:00 -0700
-published: false
+published: true
 excerpt: "Networking without overcommitting your energy (or soul)"
 ---
 
