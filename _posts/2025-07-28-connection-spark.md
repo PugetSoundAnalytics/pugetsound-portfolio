@@ -15,24 +15,37 @@ excerpt: "Networking without overcommitting your energy (or soul)"
 </div>
 
 
-Not long after I launched this blog, a former colleague reached out with enthusiasm and support. It felt great! Bing - Bang - Boom - Connection! Possibility! Maybe even collaboration! We set up a meeting. I was excited and a little surprised. Here was someone I hadn’t connected with in ages, showing up with curiosity and kindness. In a season that can sometimes feel like shouting into the void, it was deeply affirming.
+Not long after I launched this blog, a former colleague reached out with enthusiasm and support. It felt great - **bing, bang, boom**: Connection! Possibility! Maybe even collaboration...we set up a meeting. 
 
-**Guilty admission** I had some wishful wondering if this was a soft screening for a role or just a casual catch-up. You know that dance? Where you're toggling between "be cool" and "pitch mode activated"? 
+I was excited - and a little surprised. Here was someone I hadn’t connected with in ages, showing up with curiosity and kindness. In a season that can sometimes feel like shouting into the void, it was deeply affirming.
 
-It wasn’t clear at first, so I defaulted to polite enthusiasm, half-prepared to pivot if needed. But the conversation settled into just…talking, I relaxed. We laughed, shared updates, and somewhere between the “we should do a podcast - quick and dirty - just to get something out there into the wild!” and my “sure, I’m game,” I realized: I wasn’t chasing a job. I was just connecting.
+## The Dance of Intent
+Guilty admission: I had some wishful wondering if this was a soft screening for a role or just a casual catch-up. You know that dance? Where you're toggling between "*be cool*" and "*pitch mode activated*"? 
 
-Their excitement made me smile, I could see the idea's potential, it sounded fun and scary - a small win for personal growth and openness to new ideas. Since my calendar was (ahem) wide open thanks to the job hunt, I left the ball in their court to shoot over some potential times we could rip the bandaide off a raw and wild episode.
+It wasn’t clear at first, so I defaulted to polite enthusiasm, half-prepared to pivot if needed. But the conversation settled into just…talking, I relaxed. We laughed, shared updates, and somewhere between the “*we should do a podcast - quick and dirty - just to get something out there into the wild!*” and my “*sure, I’m game*,” I realized: I wasn’t chasing a job. I was just connecting.
 
-And then... nothing. No follow-up. No reschedule. And, frankly, I didn’t follow up either. Part of me wondered if it had just been a passing idea on their end. Another part of me thought, "Was I supposed to push this forward?" And then another, quieter part whispered, "Do I really want to?"
+## The Spark of an Idea
+Their excitement made me smile, I could see the idea's potential, it sounded fun and scary - a small win for personal growth and openness to new ideas. 
 
-Somewhere in my gut, I wasn’t sure whether this idea would energize or exhaust me. And in this season of career shifts, creativity, and recalibration, that’s becoming my most important filter.
+And since my calendar was (ahem) wide open thanks to the job hunt, I left the ball in their court to toss over some potential times we could rip the Band-Aid off and record a raw, wild episode.
+
+## And then... nothing
+And then... nothing. No follow-up. No reschedule. And, frankly, I didn’t follow up either. 
+
+Part of me wondered if it had just been a passing idea on their end. Another part of me thought, "*Was I supposed to push this forward?*" And then another, quieter part whispered, "*Do I really want to?*"
+
+Somewhere in my gut, I wasn’t sure whether this idea would **energize or exhaust** me. And in this season of career shifts, creativity, and recalibration, that’s becoming my most important filter.
 
 ## The New Networking Rule: Follow the Energy
 We talk about “following up” like it’s a moral obligation. Let's reframe that duty into a personal empowerment choice.
 
-Ask yourself: “Will this light me up or weigh me down?” Sometimes, letting go of an idea is an act of self-respect. It’s a way of honoring your bandwidth and trusting that you don’t need to chase every spark to stay lit. Or maybe its not a **no**, but a not right now...
+Ask yourself: “*Will this light me up or weigh me down?*” 
 
-Networking doesn’t have to be a hustle. It can be slow, mutual, and full of grace. You’re allowed to let a maybe fade into the background without it being a failure. Not every connection needs to produce something. For me, the value was being seen, doing a quick catch up talking to a peer I hadn't seen in a very long time, and laughing over shared observations of the analytics space.
+Sometimes, letting go of an idea is an act of self-respect. It’s a way of honoring your bandwidth and trusting that you don’t need to chase every spark to stay lit. Or maybe its not a no, but a *not right now*.
+
+Networking doesn’t have to be a hustle. It can be slow, mutual, and full of grace. You’re allowed to let a *maybe* fade into the background without it being a failure. 
+
+For me, the value was being seen. Catching up with a peer I hadn't spoken to in long time. Laughing over shared observations from the analytics trenches. That was enough.
 
 ## What I’m Learning
 - It’s okay to say yes to a possibility and still not pursue it.
@@ -44,4 +57,5 @@ When you're job hunting, networking, or just “putting yourself out there,” a
 
 And if you're also wondering how to network in a way that doesn’t feel like a second job or an awkward sales pitch… stay tuned.  
 
-That post is coming, but not today.
+That post is coming.  
+But not today.
