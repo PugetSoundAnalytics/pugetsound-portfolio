@@ -15,20 +15,22 @@ excerpt: "Networking without overcommitting your energy (or soul)"
 </div>
 
 
-Not long after I launched this blog, a former colleague reached out with enthusiasm and support. It felt great! Bing-Bang-Boom - Connection! Possibility! Maybe even collaboration! We set up a meeting.  
+Not long after I launched this blog, a former colleague reached out with enthusiasm and support. It felt great! Bing - Bang - Boom - Connection! Possibility! Maybe even collaboration! We set up a meeting. I was excited and a little surprised. Here was someone I hadn’t connected with in ages, showing up with curiosity and creative spark. In a season that can sometimes feel like shouting into the void, it was deeply affirming.
 
-During our chat, they floated the idea of recording a spontaneous podcast episode together.
+I’ll admit it; I had some wishful wondering if this was a soft screening for a role or a casual catch-up. You know that dance? Where you're toggling between "be cool" and "pitch mode activated"? 
 
-Remember; I'm working on starting a blog...but their excitement made me smile, I could see the idea's potential, it sounded fun and scary - a small win for personal growth and openness to new ideas. I said I was game if they wanted to schedule something, and since my calendar was (ahem) wide open thanks to the job hunt, I left the ball in their court.
+It wasn’t clear, so I defaulted to polite enthusiasm, half-prepared to pivot if needed. But as the conversation settled into just… talking, I relaxed. We laughed, shared updates, and somewhere between the “we should do a podcast!” and my “sure, I’m game,” I realized: I wasn’t chasing a job. I was just connecting.
 
-And then... nothing. No follow-up. No reschedule. And, frankly, I didn’t follow up either.
+Their excitement made me smile, I could see the idea's potential, it sounded fun and scary - a small win for personal growth and openness to new ideas. I said I was game if they wanted to schedule something, and since my calendar was (ahem) wide open thanks to the job hunt, I left the ball in their court.
+
+And then... nothing. No follow-up. No reschedule. And, frankly, I didn’t follow up either. Part of me wondered if it had just been a passing idea on their end. Another part of me thought, Was I supposed to push this forward? And then another, quieter part whispered: Do I really want to?
 
 Somewhere in my gut, I wasn’t sure whether this idea would energize or exhaust me. And in this season of career shifts, creativity, and recalibration, that’s becoming my most important filter.
 
 ## The New Networking Rule: Follow the Energy
 We talk about “following up” like it’s a moral obligation. Let's reframe that duty into a personal empowerment choice.
 
-Ask yourself: “Will this light me up or weigh me down?”
+Ask yourself: “Will this light me up or weigh me down?” Sometimes, letting go of an idea is an act of self-respect. It’s a way of honoring your bandwidth and trusting that you don’t need to chase every spark to stay lit.
 
 Networking doesn’t have to be a hustle. It can be slow, mutual, and full of grace. You’re allowed to let a maybe fade into the background without it being a failure. Not every connection needs to produce something. For me, the value was being seen, doing a quick catch up talking to a peer I hadn't seen in a very long time, and laughing over shared observations of the analytics space.
 
