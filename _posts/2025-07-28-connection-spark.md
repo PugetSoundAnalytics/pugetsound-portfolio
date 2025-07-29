@@ -29,7 +29,7 @@ Their excitement made me smile, I could see the idea's potential, it sounded fun
 
 And since my calendar was (ahem) wide open thanks to the job hunt, I left the ball in their court to toss over some potential times we could rip the Band-Aid off and record a raw, wild episode.
 
-## And then... nothing
+## And Then...Nothing
 And then... nothing. No follow-up. No reschedule. And, frankly, I didn’t follow up either. 
 
 Part of me wondered if it had just been a passing idea on their end. Another part of me thought, "*Was I supposed to push this forward?*" And then another, quieter part whispered, "*Do I really want to?*"
