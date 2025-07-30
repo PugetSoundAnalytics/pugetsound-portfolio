@@ -9,11 +9,11 @@ permalink: /who/
 <div class="display": flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;'>
 <p>
 <img src="/assets/images/linkedinbiocrop.jpeg" alt="Jenn Chin headshot" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; align-self: flex-start;">
-
+    
 <b>Hi, I’m Jenn, thanks for stopping by.</b>  
-
+    
 I’m a data analyst, visualization expert, and artist who sees hidden logic within the chaos of data and creativity alike. With extensive experience spanning e-commerce, biotech, high tech, telecom, and consumer products, I specialize in translating complex business information into clear, impactful insights.  
-
+    
 Much like my art, my analytical process thrives in structured serendipity. Even with meticulous planning, data can shift and surprise—patterns emerging where least expected. My role is to guide those surprises into meaningful stories, empowering businesses to make informed decisions and uncover new opportunities.<br>
 </p>
 </div>
