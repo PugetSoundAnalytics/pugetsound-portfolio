@@ -219,6 +219,75 @@
       border-radius: 6px;
       box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     }
+    .carousel-wrapper {
+      position: relative;
+      overflow: hidden;
+      margin: 2rem 0;
+    }
+    
+    .carousel {
+      display: flex;
+      overflow-x: auto;
+      scroll-snap-type: x mandatory;
+      -webkit-overflow-scrolling: touch;
+      scroll-behavior: smooth;
+      gap: 1rem;
+      padding: 1rem 0;
+    }
+    
+    .carousel-slide {
+      flex: 0 0 100%;
+      max-width: 600px;
+      scroll-snap-align: start;
+      border-radius: 6px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    
+    .carousel-nav {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: #212121;
+      color: white;
+      border: none;
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+      z-index: 10;
+      font-size: 1.5rem;
+      opacity: 0.8;
+    }
+    
+    .carousel-nav.left {
+      left: 0.5rem;
+    }
+    
+    .carousel-nav.right {
+      right: 0.5rem;
+    }
+    
+    .carousel-nav:hover {
+      background: #9cf;
+      color: #212121;
+    }
+    
+    .carousel-fade {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 40px;
+      z-index: 5;
+      pointer-events: none;
+    }
+    
+    .left-fade {
+      left: 0;
+      background: linear-gradient(to right, #f7f7f7, rgba(247,247,247,0));
+    }
+    
+    .right-fade {
+      right: 0;
+      background: linear-gradient(to left, #f7f7f7, rgba(247,247,247,0));
+    }
 
   </style>
 
@@ -274,6 +343,25 @@
   </script>
   
 </head>
+<script>
+  const carousel = document.getElementById('deck-carousel');
+  const leftBtn = document.querySelector('.carousel-nav.left');
+  const rightBtn = document.querySelector('.carousel-nav.right');
+
+  leftBtn.addEventListener('click', () => {
+    carousel.scrollBy({ left: -carousel.offsetWidth, behavior: 'smooth' });
+  });
+
+  rightBtn.addEventListener('click', () => {
+    carousel.scrollBy({ left: carousel.offsetWidth, behavior: 'smooth' });
+  });
+
+  // Optional: center first slide on load
+  window.addEventListener('load', () => {
+    carousel.scrollTo({ left: 0, behavior: 'smooth' });
+  });
+</script>
+
 <body>
   {% include header.html %}
   <main class="wrapper" role="main">
