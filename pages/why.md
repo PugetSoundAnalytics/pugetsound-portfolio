@@ -14,17 +14,12 @@ Here, you'll find explorations on:
 - **Humanizing Data** — Making numbers relatable and impactful.
 - **Analytical Adventures** — Insights, experiments, and lessons learned on my unicorn analyst journey.
 
-## 📌 Where to Begin?
-
-If you're new here, check out my introductory post:  
-👉 [**Hello & Welcome! Adventures in Analytics, Storytelling, and Authentic Networking**]({{ site.baseurl }}/2025/05/15/hello-welcome-analytics-storytelling-networking.html)
-
-I'm currently brewing up more captivating stories, so stay tuned for the magic about to unfold!
+## 📌 Start Here  
+New to Puget Sound Analytics? Begin with the [Starter Guide]({{ site.baseurl }}/2025/05/15/hello-welcome-analytics-storytelling-networking.html) —an intro to what this blog is all about, what’s coming next, and how to join the conversation.
 
 ## 📚 Recent Posts
-
 <ul>
-  {% for post in site.posts limit:5 %}
+  {% for post in site.posts limit:3 %}
     <li><a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}</li>
   {% endfor %}
 </ul>
