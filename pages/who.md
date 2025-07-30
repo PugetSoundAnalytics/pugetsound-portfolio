@@ -7,7 +7,7 @@ permalink: /who/
 
 ## Who am I?
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
-  <img src="/assets/images/linkedinbiocrop.jpeg" alt="Jenn Chin headshot" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; margin: 0; padding: 0; border: none; align-self: flex-start;">
+  <img src="/assets/images/linkedinbiocrop.jpeg" alt="Jenn Chin headshot" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; margin: 0; padding: 0; align-self: flex-start;">
   <div style="flex: 1;">
     <p>Hi, I’m Jenn, thanks for stopping by.</p>
     <p>I’m a data analyst, visualization expert, and artist who sees hidden logic within the chaos of data and creativity alike. With extensive experience spanning e-commerce, biotech, high tech, telecom, and consumer products, I specialize in translating complex business information into clear, impactful insights.</p>
