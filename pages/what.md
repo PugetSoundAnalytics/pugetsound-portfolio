@@ -48,8 +48,9 @@ Before diving into dashboards or tools, ask a few essential questions:
     </a>
   </div>
 </div>
+Strategy informs design. These dashboards reflect the answers to the questions above—crafted with clarity, intent, and a touch of moxie.
 
-## Sample Portfolio
+## Sample Portfolios
 
 I'm actively developing these interactive data dashboards, focused on revenue analysis, HR insights, and marketing performance. Here's what's coming soon:
 
