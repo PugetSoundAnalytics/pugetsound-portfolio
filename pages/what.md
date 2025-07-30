@@ -8,7 +8,7 @@ permalink: /what/
 ## Strategy First
 Data doesn't create change - **people do**.  
 
-Before designing tools, thought should be put into: 
+Before diving into dashboards or tools, ask a few essential questions: 
 - How do teams work and interact?
 - How are decisions made?
 - What cadence enables sustainable momentum?
@@ -22,20 +22,29 @@ Before designing tools, thought should be put into:
            alt="Book Club thumbnail"
            class="card-thumb" />
       <h3>The Speed Isn’t Strategy Book Club</h3>
+      <p>Read the takeaways</p>
     </a>
   </div>
   
   <!-- placeholder 1 -->
   <div class="card">
     <a href="" aria-label="placeholder">
+            <img src="/assets/images/placeholder.jpg"
+           alt="Placeholder for upcoming Human Resources dashboard"
+           class="card-thumb" />
       <h3>   </h3>
+      <p>Coming Soon</p>
     </a>
   </div>
   
   <!-- placeholder 2 -->
   <div class="card">
     <a href="" aria-label="placeholder">
+            <img src="/assets/images/placeholder.jpg"
+           alt="Placeholder for upcoming Human Resources dashboard"
+           class="card-thumb" />
       <h3>   </h3>
+      <p>Coming Soon</p>
     </a>
   </div>
 </div>
@@ -83,6 +92,6 @@ I'm actively developing these interactive data dashboards, focused on revenue an
 
 <p>Stay tuned—these dashboards will go live one by one! 🚀</p>
 
-### Curious about the narrative driving these insights?
+### Dive into long-form reflections, behind-the-scenes breakdowns, and thought-provoking case studies.
 
-[Discover the compelling stories behind my dashboards →](/why/){: .cta-button }
+[Read the stories behind the insights →](/why/){: .cta-button }
