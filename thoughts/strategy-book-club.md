@@ -8,17 +8,17 @@ permalink: /thoughts/strategy-book-club/
 ## The Speed Isn’t Strategy Book Club
 
 We’re told to move faster. Do more. With less.  
-But speed alone doesn’t create success—it often becomes a saboteur.
+But speed alone doesn’t create success—left unchecked, it becomes a saboteur.
 
 This short deck explores how ideas from three books helped me reframe change:
-- *Work Clean* by Dan Charnas
-- *Finding Ultra* by Rich Roll
-- *Thinking, Fast and Slow* by Daniel Kahneman
+- ***Work Clean* by Dan Charnas**
+- ***Finding Ultra* by Rich Roll**
+- ***Thinking, Fast and Slow* by Daniel Kahneman**
 
-It’s a visual warm-up to a longer blog post (coming soon).
+It’s a visual warm-up to a longer blog post (**coming soon**).
 
-📖 **View the deck below:**  
-[Download PDF](/docs/The%20Speed%20Isn’t%20Strategy%20Book%20Club.pdf)  
+👇 Scroll through the deck below  
+Prefer a PDF? [Download here](/docs/The%20Speed%20Isn’t%20Strategy%20Book%20Club.pdf)  
 <div class="carousel-wrapper">
   <button class="carousel-nav left" aria-label="Scroll left">←</button>
   <div class="carousel" id="deck-carousel" tabindex="0">
@@ -35,4 +35,5 @@ It’s a visual warm-up to a longer blog post (coming soon).
 </div>
 
 
-👉 Want to go deeper? Stay tuned for the full post, or check out the dashboards I’m designing for real-world implementation insights.
+💬 Want to go deeper?
+A full post is coming soon—until then, check out the dashboards I’m designing to bring these ideas to life in the real world.
