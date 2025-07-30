@@ -19,7 +19,12 @@ It’s a visual warm-up to a longer blog post (coming soon).
 
 📖 **View the deck below:**  
 [Download PDF](/docs/The%20Speed%20Isn’t%20Strategy%20Book%20Club.pdf)
-
-![Thumbnail of Slide 1](/assets/images/whenitworks.png)
+<div class="carousel">
+  <img src="/assets/images/strategy-book-club/strategy-slide-1.png" loading="lazy" class="carousel-slide" alt="Slide 1">
+  <img src="/assets/images/strategy-book-club/strategy-slide-2.png" loading="lazy" class="carousel-slide" alt="Slide 2">
+  <img src="/assets/images/strategy-book-club/strategy-slide-3.png" loading="lazy" class="carousel-slide" alt="Slide 3">
+  <img src="/assets/images/strategy-book-club/strategy-slide-4.png" loading="lazy" class="carousel-slide" alt="Slide 4">
+  <img src="/assets/images/strategy-book-club/strategy-slide-5.png" loading="lazy" class="carousel-slide" alt="Slide 5">
+</div>
 
 👉 Want to go deeper? Stay tuned for the full post, or check out the dashboards I’m designing for real-world implementation insights.
