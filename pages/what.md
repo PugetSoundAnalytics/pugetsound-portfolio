@@ -32,7 +32,7 @@ Before diving into dashboards or tools, ask a few essential questions:
             <img src="/assets/images/placeholder.jpg"
            alt="Placeholder for upcoming Human Resources dashboard"
            class="card-thumb" />
-      <h3>   </h3>
+      <h3>Decision Flow Models</h3>
       <p>Coming Soon</p>
     </a>
   </div>
@@ -43,7 +43,7 @@ Before diving into dashboards or tools, ask a few essential questions:
             <img src="/assets/images/placeholder.jpg"
            alt="Placeholder for upcoming Human Resources dashboard"
            class="card-thumb" />
-      <h3>   </h3>
+      <h3>Cadence & Culture in Analytics</h3>
       <p>Coming Soon</p>
     </a>
   </div>
@@ -62,7 +62,7 @@ I'm actively developing these interactive data dashboards, focused on revenue an
            alt="Revenue Dashboard thumbnail"
            class="card-thumb" />
       <h3>Revenue Dashboard</h3>
-      <p>Interactive Version Coming Soon</p>
+      <p>View Prototype →</p>
     </a>
   </div>
 
