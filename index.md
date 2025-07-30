@@ -15,13 +15,9 @@ I help businesses uncover insights and make impactful decisions through clear, p
 - **[Why](/why/)** – Embark on analytical adventures, unicorn-style.
 
 If you're seeking data visualization with a dash of creativity, AI-enhanced analytics, and a whole lot of moxie—you're in exactly the right place.
-
+[Explore My Work →](/why/){: .cta-button }
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; margin-top: 2rem;">
-  <a href="/what/" class="cta-button" style="padding: 0.75rem 1.5rem; background-color: #000; color: #fff; text-decoration: none; border-radius: 5px; font-weight: bold;">
-    Explore My Work →
-  </a>
-
-  <div class="social-icons" style="display: flex; gap: 1rem;">
+ <div class="social-icons" style="display: flex; gap: 1rem;">
     <a href="https://linkedin.com/in/jennchin" target="_blank" aria-label="LinkedIn profile for Jennifer Chin">
       <img src="/assets/images/social/linkedin.png" alt="LinkedIn profile: Jenn Chin" style="height: 32px;" />
     </a>
@@ -32,5 +28,4 @@ If you're seeking data visualization with a dash of creativity, AI-enhanced anal
       <img src="/assets/images/social/calendar.png" alt="Schedule a chat with Jennifer Chin" style="height: 32px;" />
     </a>
   </div>
-
 </div>
