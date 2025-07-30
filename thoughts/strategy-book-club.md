@@ -21,7 +21,6 @@ It’s a visual warm-up to a longer blog post (coming soon).
 [Download PDF](/docs/The%20Speed%20Isn’t%20Strategy%20Book%20Club.pdf)  
 <div class="carousel-wrapper">
   <button class="carousel-nav left" aria-label="Scroll left">←</button>
-
   <div class="carousel" id="deck-carousel" tabindex="0">
     <img src="/assets/images/strategy-book-club/strategy-slide-1.png" class="carousel-slide" alt="Slide 1">
     <img src="/assets/images/strategy-book-club/strategy-slide-2.png" class="carousel-slide" alt="Slide 2">
