@@ -95,4 +95,4 @@ I'm actively developing these interactive data dashboards, focused on revenue an
 
 ### Dive into long-form reflections, behind-the-scenes breakdowns, and thought-provoking case studies.
 
-[Read the stories behind the insights →](/why/){: .cta-button }
+[The stories behind the insights →](/why/){: .cta-button }
