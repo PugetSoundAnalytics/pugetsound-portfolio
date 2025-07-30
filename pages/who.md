@@ -8,7 +8,7 @@ permalink: /who/
 ## Who am I?
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
 
-  <img src="/assets/images/linkedinbiocrop.jpeg" alt="Jenn Chin headshot" style="max-width: 250px; border-radius: 8px;">
+  <img src="/assets/images/linkedinbiocrop.jpeg" alt="Jenn Chin headshot" style="max-width: 300px; border-radius: 8px;">
 
   <div style="flex: 1;">
     <p>Hi, I’m Jenn, thanks for stopping by.</p>
