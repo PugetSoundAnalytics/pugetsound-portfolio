@@ -22,7 +22,7 @@ It’s a visual warm-up to a longer blog post (coming soon).
 <div class="carousel-wrapper">
   <button class="carousel-nav left" aria-label="Scroll left">←</button>
 
-  <div class="carousel" id="deck-carousel">
+  <div class="carousel" id="deck-carousel" tabindex="0">
     <img src="/assets/images/strategy-book-club/strategy-slide-1.png" class="carousel-slide" alt="Slide 1">
     <img src="/assets/images/strategy-book-club/strategy-slide-2.png" class="carousel-slide" alt="Slide 2">
     <img src="/assets/images/strategy-book-club/strategy-slide-3.png" class="carousel-slide" alt="Slide 3">
