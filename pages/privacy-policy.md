@@ -8,7 +8,12 @@ title: Privacy Policy
 Your privacy matters. Here's exactly how I handle your information:
 
 ### Minimal Analytics, Maximum Privacy
-I use basic, privacy-friendly analytics (Google Analytics) only to understand general website traffic patterns—such as which pages are most visited, where visitors come from broadly, and how long they stay on the site. No personally identifiable or intrusive tracking is conducted.
+I use [Google Analytics 4](https://support.google.com/analytics/answer/10089681) with enhanced privacy settings enabled—specifically:
+- **IP anonymization** is active, so IP addresses are not stored in full.
+- No User-ID tracking or advertising features are enabled.
+- No personalized advertising, remarketing, or retargeting.
+  
+This setup helps me understand general traffic patterns—such as which pages are most visited and where visitors come from—without collecting personally identifiable information.
 
 ### My Commitment to You
 - **No personalized advertising or retargeting**—ever.
