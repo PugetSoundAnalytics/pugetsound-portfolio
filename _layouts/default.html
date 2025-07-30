@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 <head>
   <meta charset="UTF-8">
@@ -199,6 +199,24 @@
   
       .logo {
         margin: 0 auto;
+      }
+
+      .carousel {
+        display: flex;
+        overflow-x: auto;
+        gap: 1rem;
+        scroll-snap-type: x mandatory;
+        -webkit-overflow-scrolling: touch;
+        padding: 1rem 0;
+        scroll-behavior: smooth;
+      }
+
+      .carousel-slide {
+        flex: 0 0 100%;
+        max-width: 600px;
+        scroll-snap-align: start;
+        border-radius: 6px;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.1);
       }
     }
   </style>
