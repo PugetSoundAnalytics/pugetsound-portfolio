@@ -343,24 +343,6 @@
   </script>
   
 </head>
-<script>
-  const carousel = document.getElementById('deck-carousel');
-  const leftBtn = document.querySelector('.carousel-nav.left');
-  const rightBtn = document.querySelector('.carousel-nav.right');
-
-  leftBtn.addEventListener('click', () => {
-    carousel.scrollBy({ left: -carousel.offsetWidth, behavior: 'smooth' });
-  });
-
-  rightBtn.addEventListener('click', () => {
-    carousel.scrollBy({ left: carousel.offsetWidth, behavior: 'smooth' });
-  });
-
-  // Optional: center first slide on load
-  window.addEventListener('load', () => {
-    carousel.scrollTo({ left: 0, behavior: 'smooth' });
-  });
-</script>
 
 <body>
   {% include header.html %}
@@ -378,5 +360,23 @@
       </p>
     </div>
   </footer>
+  <script>
+    const carousel = document.getElementById('deck-carousel');
+    const leftBtn = document.querySelector('.carousel-nav.left');
+    const rightBtn = document.querySelector('.carousel-nav.right');
+  
+    leftBtn.addEventListener('click', () => {
+      carousel.scrollBy({ left: -carousel.offsetWidth, behavior: 'smooth' });
+    });
+  
+    rightBtn.addEventListener('click', () => {
+      carousel.scrollBy({ left: carousel.offsetWidth, behavior: 'smooth' });
+    });
+  
+    // Optional: center first slide on load
+    window.addEventListener('load', () => {
+      carousel.scrollTo({ left: 0, behavior: 'smooth' });
+    });
+  </script>
 </body>
 </html>
