@@ -6,7 +6,12 @@ permalink: /what/
 ---
 
 ## Strategy First
-Data doesn't create change - **people do**.
+Data doesn't create change - **people do**.  
+
+Before designing tools, thought should be put into: 
+- How do teams work and interact?
+- How are decisions made?
+- What cadence enables sustainable momentum?
 
 <div class="portfolio-grid">
 
