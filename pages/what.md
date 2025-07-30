@@ -20,6 +20,25 @@ Data doesn't create change - **people do**.
     </a>
   </div>
   
+  <!-- placeholder 1 -->
+  <div class="card">
+    <a href="" aria-label="placeholder">
+      <img src=""
+           alt="placeholder"
+           class="card-thumb" />
+      <h3>   </h3>
+    </a>
+  </div>
+  
+  <!-- placeholder 2 -->
+  <div class="card">
+    <a href="" aria-label="placeholder">
+      <img src=""
+           alt="placeholder"
+           class="card-thumb" />
+      <h3>   </h3>
+    </a>
+  </div>
 </div>
 
 ## Sample Portfolio
