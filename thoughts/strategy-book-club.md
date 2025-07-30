@@ -35,5 +35,5 @@ Prefer a PDF? [Download here](/docs/The%20Speed%20Isn’t%20Strategy%20Book%20Cl
 </div>
 
 
-💬 Want to go deeper?
-A full post is coming soon—until then, check out the dashboards I’m designing to bring these ideas to life in the real world.
+🛠️ Dashboards under construction. Brains are not.
+Head to the [blog](/why/) for behind-the-scenes takes and big-picture strategy thinking.
