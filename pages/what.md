@@ -5,7 +5,24 @@ description: "Preview my upcoming interactive dashboards—Revenue is live in pr
 permalink: /what/
 ---
 
-## Portfolio Dashboard Previews
+## Strategy First
+Data doesn't create change - **people do**.
+
+<div class="portfolio-grid">
+
+  <!-- The Speed Isn’t Strategy Book Club -->
+  <div class="card">
+    <a href="/docs/The Speed Isn’t Strategy Book Club.pdf" aria-label="Explore The Speed Isn’t Strategy Book Club deck ">
+      <img src="/assets/images/whenitworks.png"
+           alt="Book Club thumbnail"
+           class="card-thumb" />
+      <h3>The Speed Isn’t Strategy Book Club</h3>
+    </a>
+  </div>
+  
+</div>
+
+## Sample Portfolio
 
 I'm actively developing these interactive data dashboards, focused on revenue analysis, HR insights, and marketing performance. Here's what's coming soon:
 
