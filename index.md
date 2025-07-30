@@ -17,7 +17,7 @@ I help businesses uncover insights and make impactful decisions through clear, p
 If you're seeking data visualization with a dash of creativity, AI-enhanced analytics, and a whole lot of moxie—you're in exactly the right place.
 
 [Explore My Work →](/why/){: .cta-button }
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; margin-top: 0rem;">
+<div style="display: flex; flex-wrap: wrap; gap: 0rem; align-items: center; margin-top: 0rem;">
  <div class="social-icons" style="display: flex; gap: 1rem;">
     <a href="https://linkedin.com/in/jennchin" target="_blank" aria-label="LinkedIn profile for Jennifer Chin">
       <img src="/assets/images/social/linkedin.png" alt="LinkedIn profile: Jenn Chin" style="height: 32px;" />
