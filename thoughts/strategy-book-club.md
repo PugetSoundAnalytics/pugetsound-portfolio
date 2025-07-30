@@ -35,5 +35,5 @@ Prefer a PDF? [Download here](/docs/The%20Speed%20Isn’t%20Strategy%20Book%20Cl
 </div>
 
 
-🛠️ Dashboards under construction. Brains are not.
+🛠️ **Dashboards under construction. Brains are not.**  
 Head to the [blog](/why/) for behind-the-scenes takes and big-picture strategy thinking.
