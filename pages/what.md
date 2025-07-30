@@ -12,7 +12,7 @@ Data doesn't create change - **people do**.
 
   <!-- The Speed Isn’t Strategy Book Club -->
   <div class="card">
-    <a href="/docs/The Speed Isn’t Strategy Book Club.pdf" aria-label="Explore The Speed Isn’t Strategy Book Club deck ">
+    <a href="/thoughts/strategy-book-club/" aria-label="Explore The Speed Isn’t Strategy Book Club deck ">
       <img src="/assets/images/whenitworks.png"
            alt="Book Club thumbnail"
            class="card-thumb" />
