@@ -27,7 +27,7 @@ Just as pigments flow unpredictably, creating unexpected beauty, I believe that 
 
 When not exploring dashboards or data-driven strategies, you’ll find me embracing the serendipitous dance of acrylic paint and gravity, crafting artworks that reflect the very essence of life's beautiful complexity.
 
-### Let’s Connect
+### 👋Let’s Connect
 
 Ready to uncover insights together? Let's connect and discuss how I can help illuminate your data story.
 
