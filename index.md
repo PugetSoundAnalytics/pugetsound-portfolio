@@ -15,6 +15,7 @@ I help businesses uncover insights and make impactful decisions through clear, p
 - **[Why](/why/)** – Embark on analytical adventures, unicorn-style.
 
 If you're seeking data visualization with a dash of creativity, AI-enhanced analytics, and a whole lot of moxie—you're in exactly the right place.
+
 [Explore My Work →](/why/){: .cta-button }
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; margin-top: 2rem;">
  <div class="social-icons" style="display: flex; gap: 1rem;">
