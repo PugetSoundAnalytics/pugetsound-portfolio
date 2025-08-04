@@ -17,7 +17,7 @@ excerpt: "Networking without overcommitting your energy (or soul)"
 
 Not long after I launched this blog, a former colleague reached out with enthusiasm and support. It felt great—**bing, bang, boom**: Connection! Possibility! Maybe even collaboration... we set up a meeting. 
 
-I was excited—and a little surprised. Here was someone I hadn’t connected with in ages, showing up with curiosity and kindness. In a season that can sometimes feel like shouting into the void, it was deeply affirming.
+I was excited—and a little surprised. Here was someone I hadn’t connected with in ages, showing up with curiosity and kindness. In a season that can sometimes feel like shouting at the sky, it was deeply affirming.
 
 ## The Dance of Intent
 Guilty admission: I had some wishful wondering if this was a soft screening for a role or just a casual catch-up. You know that dance? Where you're toggling between "*be cool*" and "*pitch mode activated*"? 
