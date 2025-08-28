@@ -43,7 +43,7 @@ The switches I control today:
 ## You Are Your Own sysadmin
 Uptime is energy. My maintenance rituals right now:  
  - Patch: replace “shoulds” with a single next action.
- - Logs: one-line entry after I ship: [date] | what I shipped | where I shared | one note.
+ - Logs: one-line entry after I ship: date | what I shipped | where I shared | one note.
  - Reboot: go for a walk, drink some water, and listen to music.
 
 When momentum is steady again, I’ll add instruments (Search Console, a key event or two). Not before.
