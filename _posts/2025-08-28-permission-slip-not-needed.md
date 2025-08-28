@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Permission Slip Not Needed"
-date: 2025-08-28 00:00:00 -0700
+date: 2025-08-28 00:00:00 -0000
 published: true
 excerpt: "It's good to remember: No permission slips are needed to be you."
 tags: [creative practice, analytics, mindset, moxiecolor]
