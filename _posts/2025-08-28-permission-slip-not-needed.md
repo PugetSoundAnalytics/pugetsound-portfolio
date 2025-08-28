@@ -56,15 +56,23 @@ When momentum is steady again, I’ll add instruments (Search Console, a key eve
 - Configuration can be beautiful because it’s discretionary.
 
 <hr>
-<p><em>PS:</em> If the image helps you keep moving, I put a
-pay-what-you-like download here —
-<a href="https://moxiecolor.gumroad.com/l/vlklfl" target="_blank" rel="noopener">Get the artwork →</a>.
-$0 is perfectly okay.</p>
+<p><em>PS:</em> If the image helps you keep moving, I put a pay-what-you-like download here —
+  <a href="https://moxiecolor.gumroad.com/l/vlklfl?utm_source=blog&utm_medium=post&utm_campaign=permission_slip"
+     target="_blank" rel="noopener">Get the artwork →</a>
+  <span style="opacity:.75">($0 is perfectly okay.)</span>
+</p>
 
-If you try the one-line log, I’d love to hear what you notice after a week.
+<p>If you try the one-line log, I’d love to hear what you notice after a week.</p>
 
-Links to milestones mentioned:  
-> [Artist Site](https://moxiecolor.com/)  
-> [Puzzle Book](https://amzn.to/3UPw77C) _amazon affiliate link_  
-> [Puzzle Book & Freebies](https://moxiecolor.gumroad.com/) digital download - Gumroad  
-> [Artist Newsletter Signup](https://mailchi.mp/d9fccc887890/join-hue-and-tell?utm_source=site&utm_medium=newsletter_page&utm_campaign=hue_and_tell)
+<h3>Links to milestones mentioned</h3>
+<ul>
+  <li><a href="https://moxiecolor.com/" target="_blank" rel="noopener">Artist site</a></li>
+  <li><a href="https://amzn.to/3UPw77C" target="_blank" rel="noopener sponsored nofollow">Puzzle Book (Amazon)</a>
+      <span style="opacity:.75">— affiliate link</span></li>
+  <li><a href="https://moxiecolor.gumroad.com/?utm_source=blog&utm_medium=post&utm_campaign=permission_slip"
+         target="_blank" rel="noopener">Puzzle Book &amp; Freebies (Gumroad)</a></li>
+  <li><a href="https://mailchi.mp/d9fccc887890/join-hue-and-tell?utm_source=site&utm_medium=newsletter_page&utm_campaign=hue_and_tell"
+         target="_blank" rel="noopener">Artist newsletter signup</a></li>
+</ul>
+
+<p style="font-size:.9rem;opacity:.75">As an Amazon Associate I earn from qualifying purchases.</p>
