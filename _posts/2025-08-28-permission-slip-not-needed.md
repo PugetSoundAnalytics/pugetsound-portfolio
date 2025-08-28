@@ -4,13 +4,18 @@ title: "Permission Slip Not Needed"
 date: 2025-08-28 00:00:00 -0700
 published: false
 excerpt: "It's good to remember: No permission slips are needed to be you."
+tags: [creative practice, analytics, mindset, moxiecolor]
+image:
+  path: /assets/images/blog/permission-slip-collage-1200x630.webp
+  width: 1200
+  height: 630
+image_alt: "Neon-green, black-and-white collage with halftone portrait; text reads 'You are your own sysadmin. You have root access.'"
 ---
 
 <div style="display: flex; align-items: flex-end; gap: 20px; margin-bottom: 40px; flex-wrap: wrap;">
   <img src="/assets/images/permission-slip.svg" 
        alt="Neon-green, black-and-white collage with halftone portrait and cut-out eyes; text: You are your own sysadmin. You have root access. Small caption: Permission is inherent. Configuration is discretionary."
        style="width: 350px; height: auto;">
-
   <h1 style="margin: 0; flex: 1; min-width: 200px;">Permission Slip Not Needed</h1>
 </div>
 
@@ -31,11 +36,11 @@ _“I made this to help someone like me this week. If it helps you, tell me one 
 
 ## You Have Root Access
 The switches I control today:
- - Scope: what “done” looks like (this post = ~400 words + one image).
- - Stakes: who it needs to help (one specific reader, not The Internet).
- - Speed: a 60-minute box; anything bigger gets sliced.
+ - Scope: done = ~400 words + one image
+ - Stakes: one specific reader, not “the internet”
+ - Speed: 60-minute box; anything bigger gets sliced
 
-## You Are Your Own SysAdmin
+## You Are Your Own sysadmin
 Uptime is energy. My maintenance rituals right now:  
  - Patch: replace “shoulds” with a single next action.
  - Logs: one-line entry after I ship: [date] | what I shipped | where I shared | one note.
