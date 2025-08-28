@@ -7,7 +7,7 @@ excerpt: "It/'s good to remember: No permission slips are needed to be you."
 ---
 
 <div style="display: flex; align-items: flex-end; gap: 20px; margin-bottom: 40px; flex-wrap: wrap;">
-  <img src=".png" 
+  <img src="/assets/images/permission-slip.svg" 
        alt="Neon-green, black-and-white collage with halftone portrait and cut-out eyes; text: You are your own sysadmin. You have root access. Small caption: Permission is inherent. Configuration is discretionary."
        style="width: 350px; height: auto;">
 
