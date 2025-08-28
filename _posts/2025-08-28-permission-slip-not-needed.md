@@ -55,4 +55,16 @@ When momentum is steady again, I’ll add instruments (Search Console, a key eve
 - The work grows faster when I leave room for play.
 - Configuration can be beautiful because it’s discretionary.
 
-**PS:** If you try the one-line log, I’d love to hear what you notice after a week.
+<hr>
+<p><em>PS:</em> If the image helps you keep moving, I put a
+pay-what-you-like download here —
+<a href="https://moxiecolor.gumroad.com/l/vlklfl" target="_blank" rel="noopener">Get the artwork →</a>.
+$0 is perfectly okay.</p>
+
+If you try the one-line log, I’d love to hear what you notice after a week.
+
+Links to milestones mentioned:  
+> [Artist Site](https://moxiecolor.com/)  
+> [Puzzle Book](https://amzn.to/3UPw77C) _amazon affiliate link_  
+> [Puzzle Book & Freebies](https://moxiecolor.gumroad.com/) digital download - Gumroad  
+> [Artist Newsletter Signup](https://mailchi.mp/d9fccc887890/join-hue-and-tell?utm_source=site&utm_medium=newsletter_page&utm_campaign=hue_and_tell)
