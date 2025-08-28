@@ -11,29 +11,43 @@ excerpt: "It/'s good to remember: No permission slips are needed to be you."
        alt="Neon-green, black-and-white collage with halftone portrait and cut-out eyes; text: You are your own sysadmin. You have root access. Small caption: Permission is inherent. Configuration is discretionary."
        style="width: 350px; height: auto;">
 
-  <h1 style="margin: 0; flex: 1; min-width: 200px;">When Connection Is the Spark, But Not the Flame</h1>
+  <h1 style="margin: 0; flex: 1; min-width: 200px;">Permission Slip Not Needed</h1>
 </div>
 
+This month I got a ton done...just not wearing my analyst hat.
 
-Not long after I launched this blog, a former colleague reached out with enthusiasm and support. It felt great—**bing, bang, boom**: Connection! Possibility! Maybe even collaboration... we set up a meeting. 
+I soft re-launched my artist site, published a puzzle book on Amazon, set up Gumroad with freebies, sent my first studio newsletter in years, and rolled a LinkedIn announcement. I also felt a little dread about “needing” to publish on my analytics blog. So here’s the honest version, shaped by the words in the image.
 
-I was excited—and a little surprised. Here was someone I hadn’t connected with in ages, showing up with curiosity and kindness. In a season that can sometimes feel like shouting at the sky, it was deeply affirming.
+## Configuration Is Discretionary
+Defaults are suggestions, not destinies. My systems are seasonal: some months are heavy on dashboards; this one is heavy on making. I’m letting the configuration match reality—lighter tooling, more art—and calling that intentional, not lazy.  
 
-## The Dance of Intent
+**Try this:** choose one channel, one ask, one asset. Ship those; ignore the rest for seven days.  
 
+## Permission Is Inherent
+No gatekeeper is required to hit publish. Legitimacy doesn’t come from a posting streak; it comes from usefulness. If a single honest note helps one person (including me), it counts.
 
-## The Spark of an Idea
+**Tiny script you can steal:**  
+_“I made this to help someone like me this week. If it helps you, tell me one line about why.”_
 
+## You Have Root Access
+The switches I control today:
+ - Scope: what “done” looks like (this post = ~400 words + one image).
+ - Stakes: who it needs to help (one specific reader, not The Internet).
+ - Speed: a 60-minute box; anything bigger gets sliced.
 
-## And Then...Nothing
+## You Are Your Own SysAdmin
+Uptime is energy. My maintenance rituals right now:  
+ - Patch: replace “shoulds” with a single next action.
+ - Logs: one-line entry after I ship: [date] | what I shipped | where I shared | one note.
+ - Reboot: go for a walk, drink some water, and listen to music.
 
-
-## The New Networking Rule: Follow the Energy
-
+When momentum is steady again, I’ll add instruments (Search Console, a key event or two). Not before.
 
 ## What I’m Learning
-- It’s okay to say yes to a possibility and still not pursue it.
-- It’s okay to leave space instead of filling every silence with effort.
-- It’s okay to value clarity over complexity.
+- Small loops are kinder and more repeatable than ambitious sprints.
+- A post can be a **permission slip** and still be useful.
+- My voice lands best when I write to one person I know.
+- The work grows faster when I leave room for play.
+- Configuration can be beautiful because it’s discretionary.
 
-## Go With Your Gut
+**PS:** If you try the one-line log, I’d love to hear what you notice after a week.
