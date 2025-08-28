@@ -2,11 +2,11 @@
 layout: post
 title: "Permission Slip Not Needed"
 date: 2025-08-28 00:00:00 -0700
-published: false
+published: true
 excerpt: "It's good to remember: No permission slips are needed to be you."
 tags: [creative practice, analytics, mindset, moxiecolor]
 image:
-  path: /assets/images/blog/permission-slip-collage-1200x630.webp
+  path: /assets/images/blog/permission-slip.webp
   width: 1200
   height: 630
 image_alt: "Neon-green, black-and-white collage with halftone portrait; text reads 'You are your own sysadmin. You have root access.'"
