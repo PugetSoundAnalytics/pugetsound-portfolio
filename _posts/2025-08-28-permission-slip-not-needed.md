@@ -3,7 +3,7 @@ layout: post
 title: "Permission Slip Not Needed"
 date: 2025-08-28 00:00:00 -0700
 published: false
-excerpt: "It/'s good to remember: No permission slips are needed to be you."
+excerpt: "It's good to remember: No permission slips are needed to be you."
 ---
 
 <div style="display: flex; align-items: flex-end; gap: 20px; margin-bottom: 40px; flex-wrap: wrap;">
