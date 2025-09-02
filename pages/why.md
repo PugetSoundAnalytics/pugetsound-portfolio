@@ -1,21 +1,27 @@
 ---
 layout: default
 title: Why Data Stories Matter
-description: Discover why storytelling is key to turning data into meaningful business insights.
+description: Discover why storytelling transforms data from static numbers into narratives that drive clarity and confident decisions.
 permalink: /why/
 ---
 
 ## Every Number Has a Story
 
-Behind every data point is a narrative waiting to be told. Data stories transform raw numbers into actionable insights, empower strategic decisions, and illuminate hidden opportunities.
+Behind every data point is a narrative waiting to be uncovered. Dashboards can show you what’s happening, but only stories reveal *why it matters* and *what to do next*.  
 
-Here, you'll find explorations on:
-- **Crafting Compelling Narratives** — How storytelling turns analytics into strategic gold.
-- **Humanizing Data** — Making numbers relatable and impactful.
-- **Analytical Adventures** — Insights, experiments, and lessons learned on my unicorn analyst journey.
+Data storytelling transforms raw information into clarity, empowers strategic decisions, and illuminates opportunities that spreadsheets alone can’t surface.  
+
+Here, you’ll find explorations on:  
+- **Crafting Compelling Narratives** — Going beyond charts to connect insights with action.  
+- **Humanizing Data** — Making numbers relatable, memorable, and meaningful.  
+- **Analytics in the Wild** — Lessons, experiments, and reflections from my journey blending consulting, creativity, and curiosity.  
+
+---
 
 ## 📌 Start Here  
-New to Puget Sound Analytics? Begin with the [Starter Guide]({{ site.baseurl }}/2025/05/15/hello-welcome-analytics-storytelling-networking.html) —an intro to what this blog is all about, what’s coming next, and how to join the conversation.
+New to Puget Sound Analytics? Begin with the [Starter Guide]({{ site.baseurl }}/2025/05/15/hello-welcome-analytics-storytelling-networking.html) — an intro to what this blog is all about, what’s coming next, and how to join the conversation.  
+
+---
 
 ## 📚 Recent Posts
 <ul>
@@ -24,9 +30,14 @@ New to Puget Sound Analytics? Begin with the [Starter Guide]({{ site.baseurl }}/
   {% endfor %}
 </ul>
 
-### 🔎 Want to see every post? Check the [full blog index]({{ site.baseurl }}/blog/).
+👉 Want to dive deeper? Browse the [full blog index]({{ site.baseurl }}/blog/).  
 
-**Don't Miss Out!**  
-Follow me on [LinkedIn](https://www.linkedin.com/in/jennchin/) or check my [GitHub](https://github.com/SheHasMoxie) for updates and sneak peeks.
+---
 
-Have a topic you'd love to see explored? [Let me know!](mailto:jchin+blogideas@pugetsoundanalytics.com)
+## Stay Connected  
+
+✨ I share fresh ideas here first — but you can also catch me on [LinkedIn](https://www.linkedin.com/in/jennchin/) for professional updates, or on [GitHub](https://github.com/SheHasMoxie) for the behind-the-scenes experiments that feed my storytelling practice.  
+
+Got a topic you’d love to see explored? [Drop me a note.](mailto:jchin+blogideas@pugetsoundanalytics.com)  
+
+---
