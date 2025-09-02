@@ -10,8 +10,8 @@ permalink: /who/
   <img src="/assets/images/linkedinbiocrop.jpeg" alt="Jenn Chin headshot" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; align-self: flex-start;">
   
   <div style="flex: 1;">  
-    <h3>Hi, I’m Jenn, thanks for stopping by.</h3>
-    <p>I’m a <strong>data storyteller and artist</strong> who finds hidden logic in the chaos of numbers, color, and ideas. With experience spanning <strong>e-commerce, biotech, high tech, telecom, and consumer products</strong>, I help organizations <strong>transform raw data into clear stories</strong> that inspire confident decisions and reveal new opportunities.</p>
+    <h3>Hi, I’m Jenn Chin—a data storyteller and artist who transforms complexity into clarity.</h3>
+    <p>Across industries from <strong>e-commerce to biotech, telecom to consumer products</strong>, I help leaders uncover the narratives hidden in their data. My work turns raw numbers into stories that inspire confident decisions and spark new opportunities.</p>
     <p>Much like my art, my approach to analytics thrives on <strong>structured serendipity</strong>. Even with meticulous planning, data can surprise us—patterns appear where none were expected. My role is to guide those discoveries into <strong>meaningful narratives</strong> that bring teams into alignment and drive business impact.</p>
     
   </div>
@@ -25,7 +25,7 @@ permalink: /who/
 - **KPI Development & Strategic Alignment:** ensuring metrics reflect what truly matters 
 - **Stakeholder Communication & Collaboration:** making complex stories accessible across teams and leadership levels 
 
-Just as pigments flow unpredictably to form new shapes, I believe the best insights emerge where **analytics meets creativity**. My goal is always the same: to bring clarity from complexity and help leaders act with confidence.
+Just as pigments flow unpredictably into new shapes, I believe the best insights emerge where **analytics meets creativity**. My goal: bring clarity from complexity and help leaders act with confidence.
 
 When not uncovering data stories, you’ll find me embracing the serendipitous dance of acrylic paint and gravity, crafting artworks that reflect the very essence of life's beautiful complexity.
 
@@ -35,7 +35,7 @@ Curious about how your data can tell a clearer story? Let’s connect.
 
 Whether you’re exploring analytics projects, want to elevate your rhythm of business updates, or just want to chat about creativity and complexity—I’d love to hear from you:
 
-I also share thoughts and stories on my [blog](/pages/why.md) a mix of analytics, creativity, and behind-the-scenes lessons. Feel free to explore, and let me know what resonates.
+I also share thoughts and stories on my **[blog](/pages/why.md)** a mix of analytics, creativity, and behind-the-scenes lessons. Feel free to explore, and let me know what resonates.
 
 <div class="social-icons">
   <a href="https://linkedin.com/in/jennchin" target="_blank" aria-label="LinkedIn profile: Jennifer Chin">
