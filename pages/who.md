@@ -19,11 +19,11 @@ permalink: /who/
 
 ### My Areas of Expertise
 
-- **Data Storytelling & Visualization:** crafting insights that resonate, not just dashboards 
-- **AI-Enhanced Analytics:** using tools like ChatGPT and Copilot to accelerate clarity 
-- **Business Process Optimization & ERPs:** connecting data with workflows and outcomes 
-- **KPI Development & Strategic Alignment:** ensuring metrics reflect what truly matters
-- **Stakeholder Communication & Collaboration:** making complex stories accessible to every audience
+- **Data Storytelling & Visualization:** transforming analytics into narratives that resonate and drive action 
+- **AI-Enhanced Insights:** applying emerging tools to accelerate clarity and decision-making 
+- **Business Process Alignment & Optimization:** connecting workflows, systems, and outcomes for measurable impact  
+- **KPI Development & Strategic Alignment:** ensuring metrics reflect what truly matters 
+- **Stakeholder Communication & Collaboration:** making complex stories accessible across teams and leadership levels 
 
 Just as pigments flow unpredictably to form new shapes, I believe the best insights emerge where **analytics meets creativity**. My goal is always the same: to bring clarity from complexity and help leaders act with confidence.
 
