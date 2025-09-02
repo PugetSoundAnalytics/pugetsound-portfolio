@@ -11,8 +11,8 @@ permalink: /who/
   
   <div style="flex: 1;">  
     <h3>Hi, I’m Jenn, thanks for stopping by.</h3>
-    <p>I’m a <b>data storyteller and artist</b> who finds hidden logic in the chaos of numbers, color, and ideas. With experience spanning <b>e-commerce, biotech, high tech, telecom, and consumer products</b>, I help organizations <b>transform raw data into clear stories</b> that inspire confident decisions and reveal new opportunities.</p>
-    <p>Much like my art, my approach to analytics thrives on <b>structured serendipity</b>. Even with meticulous planning, data can surprise us—patterns appear where none were expected. My role is to guide those discoveries into <b>meaningful narratives</b> that bring teams into alignment and drive business impact.</p>
+    <p>I’m a <strong>data storyteller and artist</strong> who finds hidden logic in the chaos of numbers, color, and ideas. With experience spanning <strong>e-commerce, biotech, high tech, telecom, and consumer products</strong>, I help organizations <strong>transform raw data into clear stories</strong> that inspire confident decisions and reveal new opportunities.</p>
+    <p>Much like my art, my approach to analytics thrives on <strong>structured serendipity</strong>. Even with meticulous planning, data can surprise us—patterns appear where none were expected. My role is to guide those discoveries into <strong>meaningful narratives</strong> that bring teams into alignment and drive business impact.</p>
     
   </div>
 </div>
