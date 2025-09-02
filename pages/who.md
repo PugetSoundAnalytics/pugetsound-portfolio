@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About Jennifer Chin | Data Analyst & Visualization Expert
-description: "Meet Jennifer Chin, a data analyst and visualization expert specializing in translating complex data into actionable business insights."
+title: About Jennifer Chin | Data Storyteller & Business Strategist
+description: "Meet Jennifer Chin, a data storyteller and business strategist who transforms complex information into clear narratives that drive confident decisions."
 permalink: /who/
 ---
 
@@ -11,29 +11,31 @@ permalink: /who/
   
   <div style="flex: 1;">  
     <h3>Hi, I’m Jenn, thanks for stopping by.</h3>
-    <p>I’m a data analyst, visualization expert, and artist who sees hidden logic within the chaos of data and creativity alike. With extensive experience spanning e-commerce, biotech, high tech, telecom, and consumer products, I specialize in translating complex business information into clear, impactful insights.</p>
-    <p>Much like my art, my analytical process thrives in structured serendipity. Even with meticulous planning, data can shift and surprise—patterns emerging where least expected. My role is to guide those surprises into meaningful stories, empowering businesses to make informed decisions and uncover new opportunities.</p>
+    <p>I’m a **data storyteller and artist** who finds hidden logic in the chaos of numbers, color, and ideas. With experience spanning **e-commerce, biotech, high tech, telecom, and consumer products**, I help organizations **transform raw data into clear stories** that inspire confident decisions and reveal new opportunities.</p>
+    <p>Much like my art, my approach to analytics thrives on **structured serendipity**. Even with meticulous planning, data can surprise us—patterns appear where none were expected. My role is to guide those discoveries into **meaningful narratives** that bring teams into alignment and drive business impact.</p>
     
   </div>
 </div>
 
 ### My Areas of Expertise
 
-- **Data Storytelling & Visualization:** Power BI, Tableau, Qlik 
-- **AI-Enhanced Analytics:** ChatGPT, Copilot  
-- **Business Process Optimization & ERPs**  
-- **KPI Development & Strategic Alignment**  
-- **Stakeholder Communication & Collaboration** 
+- **Data Storytelling & Visualization:** crafting insights that resonate, not just dashboards 
+- **AI-Enhanced Analytics:** using tools like ChatGPT and Copilot to accelerate clarity 
+- **Business Process Optimization & ERPs:** connecting data with workflows and outcomes 
+- **KPI Development & Strategic Alignment:** ensuring metrics reflect what truly matters
+- **Stakeholder Communication & Collaboration:** making complex stories accessible to every audience
 
-Just as pigments flow unpredictably, creating unexpected beauty, I believe that the best insights often arise at the intersection of structured analytics and creative thinking. My goal is always the same: to discover logic within chaos, creating clarity from complexity.
+Just as pigments flow unpredictably to form new shapes, I believe the best insights emerge where **analytics meets creativity**. My goal is always the same: to bring clarity from complexity and help leaders act with confidence.
 
-When not exploring dashboards or data-driven strategies, you’ll find me embracing the serendipitous dance of acrylic paint and gravity, crafting artworks that reflect the very essence of life's beautiful complexity.
+When not uncovering data stories, you’ll find me embracing the serendipitous dance of acrylic paint and gravity, crafting artworks that reflect the very essence of life's beautiful complexity.
 
 ### 👋Let’s Connect
 
-Ready to uncover insights together? Let's connect and discuss how I can help illuminate your data story.
+Curious about how your data can tell a clearer story? Let’s connect.  
 
-Whether you're curious about my [visual storytelling and analytics projects]({{ site.baseurl }}/what/) or want to chat about a potential collaboration, connect with me here:
+Whether you’re exploring analytics projects, want to elevate your rhythm of business updates, or just want to chat about creativity and complexity—I’d love to hear from you:
+
+I also share thoughts and stories on my [blog](/pages/why.md) a mix of analytics, creativity, and behind-the-scenes lessons. Feel free to explore, and let me know what resonates.
 
 <div class="social-icons">
   <a href="https://linkedin.com/in/jennchin" target="_blank" aria-label="LinkedIn profile: Jennifer Chin">
