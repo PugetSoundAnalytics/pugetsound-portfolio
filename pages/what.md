@@ -62,8 +62,7 @@ permalink: /what/
 
 ### Case Studies  
 Data doesn't create change - **people do**.  
-Explore examples of how I’ve helped teams move from data to decisions that stick.
-
+Explore examples of how I’ve helped teams move from data to decisions that stick.  
 <style>
   .case-studies-grid {
     display: grid;
