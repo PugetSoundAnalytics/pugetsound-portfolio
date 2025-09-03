@@ -7,14 +7,16 @@ permalink: /why/
 
 ## Why I Care: Every Number Has a Story
 
-Behind every data point is a narrative waiting to be uncovered. Dashboards can show you what’s happening, but only stories reveal *why it matters* and *what to do next*.  
+Behind every data point is a story. Dashboards show what’s happening, but stories reveal *why it matters* and *what to do next*.  
 
-Data storytelling transforms raw information into clarity, empowers strategic decisions, and illuminates opportunities that spreadsheets alone can’t surface.  
+Data storytelling transforms raw numbers into clarity, empowers decisions, and reveals opportunities spreadsheets can’t.  
 
 Here, you’ll find explorations on:  
-- **Crafting Compelling Narratives** — Going beyond charts to connect insights with action.  
-- **Humanizing Data** — Making numbers relatable, memorable, and meaningful.  
-- **Analytics in the Wild** — Lessons, experiments, and reflections from my journey blending consulting, creativity, and curiosity.  
+- **Narrative Craft** — Turning insights into action.  
+- **Humanized Data** — Making numbers relatable and memorable.  
+- **Analytics in the Wild** — Lessons, experiments, and reflections from the field.  
+
+This is the space where I explore, experiment, and share the stories behind the numbers.
 
 ---
 
