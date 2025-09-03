@@ -5,7 +5,7 @@ description: "Meet Jennifer Chin, a data storyteller and business strategist who
 permalink: /who/
 ---
 
-## Who I Am: A Data Storyteller, Analyst, and Artist
+## Who I Am: A Data Storyteller & Analyst
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
   <img src="/assets/images/linkedinbiocrop.jpeg" alt="Jenn Chin headshot" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; align-self: flex-start;">
   
