@@ -1,20 +1,19 @@
 ---
 layout: default
 title: "Puget Sound Analytics | Data-Driven Business Insights and Analytics"
-description: "Jennifer Chin provides impactful business analytics, data visualization, and storytelling, driving clarity and actionable insights through creativity and AI-enhanced analytics."
+description: "Jennifer Chin transforms complex data into clear stories that drive confident decisions. Data storytelling, visualization, and AI-enhanced analytics—delivered with clarity and creativity."
 ---
 
-# Taming Chaos, Crafting Meaning
+# Turning Data Into Decisions  
 
-I help businesses uncover insights and make impactful decisions through clear, powerful analytics and data-driven storytelling.
+I help organizations transform data chaos into clarity—uncovering patterns, crafting narratives, and guiding confident decisions. My work blends analytics with storytelling, ensuring insights don’t just exist, they make an impact.  
 
-## Grab your hat and boots—let's venture forth:
+## Explore the Framework  
+- **[Who](/who/)** – Meet Jennifer Chin, the data storyteller behind the insights.
+- **[What](/what/)** – See the framework I deliver: Data → Pattern → Narrative → Decision.
+- **[Why](/why/)** – Discover reflections, case studies, and the philosophy behind my work.
 
-- **[Who](/who/)** – Meet the analyst behind the insights.
-- **[What](/what/)** – Explore dynamic dashboards and captivating data stories.
-- **[Why](/why/)** – Embark on analytical adventures, unicorn-style.
-
-If you're seeking data visualization with a dash of creativity, AI-enhanced analytics, and a whole lot of moxie—you're in exactly the right place.
+If you’re looking for **data stories that resonate, AI-enhanced insights that accelerate clarity, and a partner who thrives at the intersection of analytics and creativity**—you’re in the right place.  
 
 [Explore My Work →](/why/){: .cta-button }
 <div style="display: flex; flex-wrap: wrap; gap: 0rem; align-items: center; margin-top: 0rem;">
