@@ -5,7 +5,7 @@ description: Discover why storytelling transforms data from static numbers into 
 permalink: /why/
 ---
 
-## Why I Care: Data Are Human Stories
+## Why I Care: Human Stories Are Built With Data
 
 Behind every data point is a story. Dashboards show what’s happening, but stories reveal *why it matters* and *what to do next*.  
 
