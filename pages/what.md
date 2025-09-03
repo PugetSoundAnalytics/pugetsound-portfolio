@@ -19,9 +19,12 @@ permalink: /what/
     <div style="flex: 1;">  
       <h3>Framework</h3>
       <ul>
-        <li>Clarity in Reporting → turn rhythms of business into meaningful stories.</li>
-        <li>Actionable Insights → ad hoc analysis that answers “so what?”</li>
-        <li>Alignment Across Teams → data stories leaders actually use.</li>
+        <li><strong>Clarity in Reporting:</strong> turn rhythms of business into meaningful stories</li>
+        <li><strong>Actionable Insights:</strong> ad hoc analysis that answers “so what?”</li>
+        <li><strong>Alignment Across Teams:</strong> data stories leaders actually use</li>
+        <li><strong>Sustainable Processes:</strong> reporting frameworks that scale and reduce rework</li>
+        <li><strong>Executive-Ready Outputs:</strong> polished insights that inform leadership decisions</li>
+        <li><strong>Human + AI Storytelling:</strong> blending automation with context for faster, smarter analysis</li>
       </ul>
       <p>Data → Pattern → Narrative → Decision (continuous loop)</p>
     </div>
