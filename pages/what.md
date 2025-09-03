@@ -40,12 +40,12 @@ permalink: /what/
   <div class="psa-card">
     <h3>Clarity &amp; Insight</h3>
     <ul>
-      <li><strong>Clarity in Reporting:</strong> RoB updates become meaningful stories leaders use.</li>
+      <li><strong>Clarity in Reporting:</strong> Turning RoB updates into stories leaders use.</li>
       <li><strong>Actionable Insights:</strong> Ad hoc analysis to answer “so what?”</li>
     </ul>
   </div>
   <div class="psa-card">
-    <h3>Partnership &amp; Scale</h3>
+    <h3>Alignment &amp; Scale</h3>
     <ul>
       <li><strong>Alignment Across Teams:</strong> Data stories that bring stakeholders onto the same page.</li>
       <li><strong>Sustainable Processes:</strong> Scalable solutions that eliminate rework and free up time.</li>
@@ -55,7 +55,7 @@ permalink: /what/
     <h3>Impact &amp; Innovation</h3>
     <ul>
       <li><strong>Executive-Ready Outputs:</strong> Insights packaged for leadership decisions.</li>
-      <li><strong>Human + AI:</strong> Smart blend of automation and context for clarity at speed.</li>
+      <li><strong>Human + AI:</strong> Blending automation with context for clarity at speed.</li>
     </ul>
   </div>
 </div>
