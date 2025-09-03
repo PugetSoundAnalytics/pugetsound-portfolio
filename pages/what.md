@@ -14,7 +14,7 @@ permalink: /what/
     <img 
       src="{{ '/assets/images/Data Journey.svg' | relative_url }}" 
       alt="Data → Pattern → Narrative → Decision (continuous loop)"
-      style="width: 100%; max-width: 375px; height: auto; border: none; align-self: flex-start;">
+      style="width: 100%; max-width: 300px; height: auto; border: none; align-self: flex-start;">
   </picture>
   <div style="flex: 1;">  
     <p>The Data → Decision loop framework ensures insights don’t just sit in dashboards — they drive action, alignment, and impact.</p>
