@@ -14,7 +14,7 @@ permalink: /what/
     <img 
       src="{{ '/assets/images/Data Journey.svg' | relative_url }}" 
       alt="Data → Pattern → Narrative → Decision (continuous loop)"
-      style="width: 100%; max-width: 300px; height: auto; border: none; align-self: flex-start;">
+      style="width: 100%; max-width: 285px; height: auto; border: none; align-self: flex-start;">
   </picture>
   <div style="flex: 1;">  
     <p>This framework ensures insights don’t just sit in dashboards; they drive action, alignment, and impact.</p>
@@ -47,7 +47,7 @@ permalink: /what/
   <div class="psa-card">
     <h3>Alignment &amp; Scale</h3>
     <ul>
-      <li><strong>Alignment Across Teams:</strong> Data stories that bring stakeholders onto the same page.</li>
+      <li><strong>Team Alignment:</strong> Data stories that bring stakeholders onto the same page.</li>
       <li><strong>Sustainable Processes:</strong> Scalable solutions that eliminate rework and free up time.</li>
     </ul>
   </div>
