@@ -17,7 +17,7 @@ permalink: /what/
       style="width: 100%; max-width: 300px; height: auto; border: none; align-self: flex-start;">
   </picture>
   <div style="flex: 1;">  
-    <p>This framework ensures insights don’t just sit in dashboards — they drive action, alignment, and impact.</p>
+    <p>This framework ensures insights don’t just sit in dashboards; they drive action, alignment, and impact.</p>
     <p><strong>Tool Agnostic</strong></p>
     <p><em>Data → Any sources - messy or managed</em></p>
     <p><em>Pattern → Visuals + analysis that reveal meaning</em></p>
