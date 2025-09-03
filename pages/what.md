@@ -40,7 +40,7 @@ permalink: /what/
   <div class="psa-card">
     <h3>Clarity &amp; Insight</h3>
     <ul>
-      <li><strong>Clarity in Reporting:</strong> Turning RoB updates into stories leaders use.</li>
+      <li><strong>Reporting Clarity:</strong> Turning RoB updates into stories leaders use.</li>
       <li><strong>Actionable Insights:</strong> Ad hoc analysis to answer “so what?”</li>
     </ul>
   </div>
