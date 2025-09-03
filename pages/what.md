@@ -45,7 +45,7 @@ permalink: /what/
     </ul>
   </div>
   <div class="psa-card">
-    <h3>Unity &amp; Scale</h3>
+    <h3>Partnership &amp; Scale</h3>
     <ul>
       <li><strong>Alignment Across Teams:</strong> Data stories that bring stakeholders onto the same page.</li>
       <li><strong>Sustainable Processes:</strong> Scalable solutions that eliminate rework and free up time.</li>
