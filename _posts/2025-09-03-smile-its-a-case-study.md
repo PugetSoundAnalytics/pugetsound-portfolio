@@ -3,7 +3,7 @@ layout: post
 title: "Why Writing My Own Case Study Made Me Smile"
 description: "Reflecting on how documenting a past analytics project helped me rediscover pride, clarity—and a renewed sense of what matters in storytelling."
 date: 2025-09-03 00:00:00 -0000
-published: false
+published: true
 excerpt: "I thought I was writing a case study — but instead, I remembered what made the work meaningful. And that unexpected smile."
 image:
   path: /assets/images/blog/hiking-to-sunrise.svg
