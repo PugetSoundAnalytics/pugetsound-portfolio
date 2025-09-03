@@ -16,21 +16,33 @@ permalink: /what/
       alt="Data → Pattern → Narrative → Decision (continuous loop)"
       style="width: 100%; max-width: 300px; height: auto; border: none; align-self: flex-start;">
   </picture>
-    <div style="flex: 1;">  
-      <h3>Framework</h3>
-      <ul>
-        <li><strong>Clarity in Reporting:</strong> rhythms of business become meaningful stories</li>
-        <li><strong>Actionable Insights:</strong> ad hoc analysis to answer “so what?”</li>
-        <li><strong>Alignment Across Teams:</strong> data stories leaders actually use</li>
-        <li><strong>Sustainable Processes:</strong> scaleable solutions to eliminate rework</li>
-        <li><strong>Executive-Ready Outputs:</strong> insights packaged for leadership decisions</li>
-        <li><strong>Human + AI Storytelling:</strong> smart blending of automation with context</li>
-      </ul>
-      <p>Data → Pattern → Narrative → Decision (continuous loop)</p>
-    </div>
+  <div style="flex: 1;">  
+    <h3>Frameworks I Deliver</h3>
+    <h4>Clarity & Insight</h4>
+    <ul>
+      <li><strong>Clarity in Reporting:</strong> Rhythms of business become meaningful stories leaders use.</li>
+      <li><strong>Actionable Insights:</strong> Ad hoc analysis to answer “so what?”</li>
+    </ul>
+  
+    <h4>Collaboration & Scale</h4>
+    <ul>
+      <li><strong>Alignment Across Teams:</strong> Data stories that bring stakeholders onto the same page.</li>
+      <li><strong>Sustainable Processes:</strong> Scalable solutions that eliminate rework and free up time.</li>
+    </ul>
+  
+    <h4>Impact & Future</h4>
+    <ul>
+      <li><strong>Executive-Ready Outputs:</strong> Insights packaged for leadership decisions and RoB updates.</li>
+      <li><strong>Human + AI Storytelling:</strong> Blending automation with context for faster, smarter analysis.</li>
+    </ul>
+  
+    <p><em>Data → Pattern → Narrative → Decision</em></p>
+    <p>The Data → Decision loop ensures insights don’t just sit in dashboards — they drive action, alignment, and impact.</p>
+  </div>
 </div>
 
 ## Case Studies  
-Data doesn't create change - **people do**.
+Data doesn't create change - **people do**.  
+Here’s how I’ve partnered with teams to turn stories into decisions that matter.
 
 [The stories behind the insights →](/why/){: .cta-button }
