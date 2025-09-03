@@ -17,7 +17,7 @@ Because another dashboard won’t change *your* business - *stories* do
 
 If you’re looking for **data stories that resonate, AI-enhanced insights that accelerate clarity, and a partner who thrives at the intersection of analytics and creativity**—you’re in the right place.  
 
-[Explore My Work >](/why/){: .cta-button }
+[Explore My Work >](/what/){: .cta-button }
 <div style="display: flex; flex-wrap: wrap; gap: 0rem; align-items: center; margin-top: 0rem;">
  <div class="social-icons" style="display: flex; gap: 1rem;">
     <a href="https://linkedin.com/in/jennchin" target="_blank" aria-label="LinkedIn profile for Jennifer Chin">
