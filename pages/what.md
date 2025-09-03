@@ -60,7 +60,7 @@ permalink: /what/
   </div>
 </div>
 
-## Case Studies  
+### Case Studies  
 Data doesn't create change - **people do**.  
 Explore examples of how I’ve helped teams move from data to decisions that stick.
 
