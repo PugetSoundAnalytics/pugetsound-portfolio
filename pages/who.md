@@ -7,7 +7,7 @@ permalink: /who/
 
 ## Who I Am: A Data Storyteller & Analyst
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
-  <img src="/assets/images/linkedinbiocrop.jpeg" alt="Jenn Chin headshot" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; align-self: flex-start;">
+  <img src="/assets/images/linkedinbiocrop.jpeg" alt="Jenn Chin headshot" style="width: 100%; max-width: 300px; height: auto; border:1px solid #e6e6e6;border-radius:12px;padding:1rem 1.1rem; align-self: flex-start;">
   
   <div style="flex: 1;">  
     <H3>Meet Jenn Chin</H3>
