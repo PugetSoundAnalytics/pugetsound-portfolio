@@ -20,9 +20,9 @@ permalink: /what/
     <p>This framework ensures insights don’t just sit in dashboards — they drive action, alignment, and impact.</p>
     <p><strong>Tool Agnostic</strong></p>
     <p><em>Data → Any sources - messy or managed</em></p>
-    <p><em>Pattern → Visuals & Analysis</em></p>
-    <p><em>Narrative → Bullets, briefs, and Journeys</em></p>
-    <p><em>Decision → Clear call to action</em></p>
+    <p><em>Pattern → Visuals + analysis that reveal meaning</em></p>
+    <p><em>Narrative → Briefs, stories, and journeys that connect</em></p>
+    <p><em>Decision → Clear calls to action leaders can use</em></p>
   </div>
 </div>
 
@@ -55,7 +55,7 @@ permalink: /what/
     <h3>Impact &amp; Innovation</h3>
     <ul>
       <li><strong>Executive-Ready Outputs:</strong> Insights packaged for leadership decisions.</li>
-      <li><strong>Human + AI:</strong> Blending automation with context for faster, smarter analysis.</li>
+      <li><strong>Human + AI:</strong> Smart blend of automation and context for clarity at speed.</li>
     </ul>
   </div>
 </div>
