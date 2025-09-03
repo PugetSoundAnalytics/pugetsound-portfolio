@@ -5,8 +5,7 @@ description: "Preview my upcoming interactive dashboards—Revenue is live in pr
 permalink: /what/
 ---
 
-## Case Studies
-Data doesn't create change - **people do**.  
+## What I Deliver
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
   <picture>
     <source 
@@ -19,13 +18,16 @@ Data doesn't create change - **people do**.
   </picture>
     <div style="flex: 1;">  
       <h3>Framework</h3>
-      <p>"Data → Pattern → Narrative → Decision (continuous loop)</p>
+      <ul>
+        <li>Clarity in Reporting → turn rhythms of business into meaningful stories.</li>
+        <li>Actionable Insights → ad hoc analysis that answers “so what?”</li>
+        <li>Alignment Across Teams → data stories leaders actually use.</li>
+      </ul>
+      <p>Data → Pattern → Narrative → Decision (continuous loop)</p>
     </div>
 </div>
 
-## What I Deliver
- - Clarity in Reporting → turn rhythms of business into meaningful stories.
- - Actionable Insights → ad hoc analysis that answers “so what?”
- - Alignment Across Teams → data stories leaders actually use.
+## Case Studies  
+Data doesn't create change - **people do**.
 
 [The stories behind the insights →](/why/){: .cta-button }
