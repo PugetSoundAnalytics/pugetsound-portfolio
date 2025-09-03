@@ -14,7 +14,7 @@ permalink: /what/
     <img 
       src="{{ '/assets/images/Data Journey.svg' | relative_url }}" 
       alt="Data → Pattern → Narrative → Decision (continuous loop)"
-      style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; align-self: flex-start;">
+      style="width: 100%; max-width: 300px; height: auto; border: none; align-self: flex-start;">
   </picture>
     <div style="flex: 1;">  
       <h3>Framework</h3>
