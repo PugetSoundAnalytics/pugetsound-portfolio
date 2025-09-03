@@ -5,14 +5,13 @@ description: "Meet Jennifer Chin, a data storyteller and business strategist who
 permalink: /who/
 ---
 
-## Who am I?
+## Meet Jenn Chin or Who I Am
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
   <img src="/assets/images/linkedinbiocrop.jpeg" alt="Jenn Chin headshot" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; align-self: flex-start;">
   
   <div style="flex: 1;">  
-    <h3>Hi, I’m Jenn Chin—a data storyteller and artist who transforms complexity into clarity.</h3>
-    <p>Across industries from <strong>e-commerce to biotech, telecom to consumer products</strong>, I help leaders uncover the narratives hidden in their data. My work turns raw numbers into stories that inspire confident decisions and spark new opportunities.</p>
-    <p>Much like my art, my approach to analytics thrives on <strong>structured serendipity</strong>. Even with meticulous planning, data can surprise us—patterns appear where none were expected. My role is to guide those discoveries into <strong>meaningful narratives</strong> that bring teams into alignment and drive business impact.</p>
+    <p>I’m Jenn Chin—a data storyteller and artist who transforms complexity into clarity. With experience across e-commerce, biotech, telecom, high tech, and consumer products, I help leaders uncover the narratives hidden in their data and turn raw numbers into stories that drive confident decisions.</p>
+    <p>Much like my art, my analytics thrive on structured serendipity. Even with careful planning, data can surprise—patterns emerge where none were expected. My role is to guide those discoveries into meaningful narratives that align teams and drive impact.</p>
     
   </div>
 </div>
@@ -22,10 +21,10 @@ permalink: /who/
 - **Data Storytelling & Visualization:** transforming analytics into narratives that resonate and drive action 
 - **AI-Enhanced Insights:** applying emerging tools to accelerate clarity and decision-making 
 - **Business Process Alignment & Optimization:** connecting workflows, systems, and outcomes for measurable impact  
-- **KPI Development & Strategic Alignment:** ensuring metrics reflect what truly matters 
+- **KPI Development & Strategic Alignment:** designing metrics that reflect what truly matters to the business. 
 - **Stakeholder Communication & Collaboration:** making complex stories accessible across teams and leadership levels 
 
-Just as pigments flow unpredictably into new shapes, I believe the best insights emerge where **analytics meets creativity**. My goal: bring clarity from complexity and help leaders act with confidence.
+Just as pigments flow into unexpected shapes, the best insights emerge when analytics meets creativity. **My goal:** bring clarity from complexity so leaders can act with confidence.  
 
 When not uncovering data stories, you’ll find me embracing the serendipitous dance of acrylic paint and gravity, crafting artworks that reflect the very essence of life's beautiful complexity.
 
