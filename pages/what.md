@@ -104,9 +104,7 @@ Explore examples of how I’ve helped teams move from data to decisions that sti
     text-decoration: underline;
   }
 </style>
-
 <div class="case-studies-grid">
-
   <!-- Case Study 1 -->
   <div class="case-card">
     <h3>Outdoor Adventures Funnel Conversion</h3>
@@ -114,23 +112,13 @@ Explore examples of how I’ve helped teams move from data to decisions that sti
     <p><strong>Impact:</strong> Restored confidence in conversion metrics, revealed accurate engagement signals, and enabled tailored messaging.</p>
     <a href="/case-study/online-vacation-funnel/">Read More →</a>
   </div>
-
   <!-- Case Study 2 -->
   <div class="case-card">
-    <h3>[]</h3>
+    <h3> </h3>
     <p></p>
     <p></p>
     <a href="#"></a>
   </div>
-
-  <!-- Case Study 3 -->
-  <div class="case-card">
-    <h3>[]</h3>
-    <p></p>
-    <p></p>
-    <a href="#"></a>
-  </div>
-
 </div>
 
 [The stories behind the insights →](/why/){: .cta-button }
