@@ -42,7 +42,7 @@ So if you’re feeling a little fuzzy on what you’ve accomplished lately, I hi
 Not to polish it up for the world (though that’s great too), but to remember *you* were the one who made it work.
 
 And if it brings a smile?  
-That’s the best kind of metric.
+That’s the kind of metric you don’t need a dashboard for.
 
 ---
 
