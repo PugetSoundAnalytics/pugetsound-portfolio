@@ -5,7 +5,7 @@ description: "Preview my upcoming interactive dashboards—Revenue is live in pr
 permalink: /what/
 ---
 
-## What I Deliver
+## What I Deliver: The Data → Decision Loop  
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
   <picture>
     <source 
