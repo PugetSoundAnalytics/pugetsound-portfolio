@@ -7,6 +7,10 @@ permalink: /what/
 
 ## Case Studies
 Data doesn't create change - **people do**.  
+<picture>
+  <source srcset="{{ '/assets/images/Data Journey.svg' | relative_url }}" media="(prefers-color-scheme: dark)">
+  <img src="{{ '/assets/images/Data Journey-white.svg' | relative_url }}" alt="Data → Pattern → Narrative → Decision (continuous loop)">
+</picture>
 
 ## What I Deliver
  - Clarity in Reporting → turn rhythms of business into meaningful stories.
