@@ -41,14 +41,14 @@ permalink: /what/
     <h3>Clarity &amp; Insight</h3>
     <ul>
       <li><strong>Report Clarity:</strong> Turning RoB updates into stories leaders use.</li>
-      <li><strong>Actionable Insights:</strong> Ad hoc analysis to answer “so what?”</li>
+      <li><strong>Actionable Insight:</strong> Ad hoc analysis to answer “so what?”</li>
     </ul>
   </div>
   <div class="psa-card">
     <h3>Alignment &amp; Scale</h3>
     <ul>
       <li><strong>Team Alignment:</strong> Data stories that bring stakeholders onto the same page.</li>
-      <li><strong>Sustainable Processes:</strong> Scalable solutions that eliminate rework and free up time.</li>
+      <li><strong>Smart Scaling:</strong> Sustainable solutions that eliminate rework and free up time.</li>
     </ul>
   </div>
   <div class="psa-card">
