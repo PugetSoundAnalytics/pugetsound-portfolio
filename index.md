@@ -8,10 +8,10 @@ description: "Jennifer Chin transforms complex data into clear stories that driv
 
 I help organizations transform data chaos into clarity—uncovering patterns, crafting narratives, and guiding confident decisions. My work blends analytics with storytelling, ensuring insights don’t just exist, they make an impact.  
 
-## The Data → Decision Loop 
-- **[Who](/who/)** – Meet Jennifer Chin: blending analytics, storytelling, and creativity into business clarity.
-- **[What](/what/)** – See how I deliver: Data → Pattern → Narrative → Decision.
-- **[Why](/why/)** – See how reflections and case studies shape a philosophy of insights leaders actually use.  
+## Asked & Answered 
+- **[Who](/who/)** I Am: A Data Storyteller & Analyst
+- **[What](/what/)** I Deliver: The Data → Decision Loop
+- **[Why](/why/)** I Care: Data Illuminates Our Story  
 
 Because another dashboard won’t change *your* business - *stories* do
 
