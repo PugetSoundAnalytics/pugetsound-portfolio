@@ -5,13 +5,13 @@ description: "Meet Jennifer Chin, a data storyteller and business strategist who
 permalink: /who/
 ---
 
-## Who I Am
+## Who I Am: A Data Storyteller, Analyst, and Artist
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
   <img src="/assets/images/linkedinbiocrop.jpeg" alt="Jenn Chin headshot" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; align-self: flex-start;">
   
   <div style="flex: 1;">  
     <H3>Meet Jenn Chin</H3>
-    <p>I’m a data storyteller and artist who transforms complexity into clarity. With experience across e-commerce, biotech, telecom, high tech, and consumer products, I help leaders uncover the narratives hidden in their data and turn raw numbers into stories that drive confident decisions.</p>
+    <p>I transform complexity into clarity. With experience across e-commerce, biotech, telecom, high tech, and consumer products, I help leaders uncover the narratives hidden in their data and turn raw numbers into stories that drive confident decisions.</p>
     <p>Much like my art, my analytics thrive on structured serendipity. Even with careful planning, data can surprise—patterns emerge where none were expected. My role is to guide those discoveries into meaningful narratives that align teams and drive impact.</p>
     
   </div>
@@ -35,7 +35,7 @@ Curious about how your data can tell a clearer story? Let’s connect.
 
 Whether you’re exploring analytics projects, want to elevate your rhythm of business updates, or just want to chat about creativity and complexity—I’d love to hear from you:
 
-I also share thoughts and stories on my **[blog](/pages/why.md)** a mix of analytics, creativity, and behind-the-scenes lessons. Feel free to explore, and let me know what resonates.
+I also share thoughts and stories on my **[blog](/pages/why.md)** a mix of analytics, creativity, and behind-the-scenes lessons. Explore, connect, and let’s turn data into stories that matter.
 
 <div class="social-icons">
   <a href="https://linkedin.com/in/jennchin" target="_blank" aria-label="LinkedIn profile: Jennifer Chin">
