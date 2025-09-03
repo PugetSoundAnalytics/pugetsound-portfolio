@@ -39,7 +39,7 @@ permalink: /what/
   <div class="psa-card">
     <h3>Clarity &amp; Insight</h3>
     <ul>
-      <li><strong>Clarity in Reporting:</strong> Rhythms of business become meaningful stories leaders use.</li>
+      <li><strong>Clarity in Reporting:</strong> RoB updates become meaningful stories leaders use.</li>
       <li><strong>Actionable Insights:</strong> Ad hoc analysis to answer “so what?”</li>
     </ul>
   </div>
@@ -51,10 +51,10 @@ permalink: /what/
     </ul>
   </div>
   <div class="psa-card">
-    <h3>Impact &amp; Future</h3>
+    <h3>Impact &amp; Innovation</h3>
     <ul>
-      <li><strong>Executive-Ready Outputs:</strong> Insights packaged for leadership decisions and RoB updates.</li>
-      <li><strong>Human + AI Storytelling:</strong> Blending automation with context for faster, smarter analysis.</li>
+      <li><strong>Executive-Ready Outputs:</strong> Insights packaged for leadership decisions.</li>
+      <li><strong>Human + AI:</strong> Blending automation with context for faster, smarter analysis.</li>
     </ul>
   </div>
 </div>
