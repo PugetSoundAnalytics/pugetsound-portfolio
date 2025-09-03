@@ -10,7 +10,8 @@ permalink: /who/
   <img src="/assets/images/linkedinbiocrop.jpeg" alt="Jenn Chin headshot" style="width: 100%; max-width: 300px; height: auto; border-radius: 8px; align-self: flex-start;">
   
   <div style="flex: 1;">  
-    <p>I’m Jenn Chin—a data storyteller and artist who transforms complexity into clarity. With experience across e-commerce, biotech, telecom, high tech, and consumer products, I help leaders uncover the narratives hidden in their data and turn raw numbers into stories that drive confident decisions.</p>
+    <H3>I’m Jenn Chin</H3>
+    <p>A data storyteller and artist who transforms complexity into clarity. With experience across e-commerce, biotech, telecom, high tech, and consumer products, I help leaders uncover the narratives hidden in their data and turn raw numbers into stories that drive confident decisions.</p>
     <p>Much like my art, my analytics thrive on structured serendipity. Even with careful planning, data can surprise—patterns emerge where none were expected. My role is to guide those discoveries into meaningful narratives that align teams and drive impact.</p>
     
   </div>
