@@ -5,7 +5,7 @@ description: Discover why storytelling transforms data from static numbers into 
 permalink: /why/
 ---
 
-## Why I Care: Human Stories Are Built With Data
+## Why I Care: Data Illuminates Human Stories
 
 Behind every data point is a story. Dashboards show what’s happening, but stories reveal *why it matters* and *what to do next*.  
 
@@ -14,18 +14,18 @@ Data storytelling transforms raw numbers into clarity, empowers decisions, and r
 Here, you’ll find explorations on:  
 - **Narrative Craft** — Turning insights into action.  
 - **Humanized Data** — Making numbers relatable and memorable.  
-- **Analytics in the Wild** — Lessons, experiments, and reflections from the field.  
+- **Analytics in the Wild** — Lessons and reflections from practice.  
 
-This is the space where I explore, experiment, and share the stories behind the numbers.
+This is where I explore, experiment, and share the stories behind the numbers.
 
 ---
 
-## 📌 Start Here  
+### 📌 Getting Started  
 New to Puget Sound Analytics? Begin with the [Starter Guide]({{ site.baseurl }}/2025/05/15/hello-welcome-analytics-storytelling-networking.html) — an intro to what this blog is all about, what’s coming next, and how to join the conversation.  
 
 ---
 
-## 📚 Recent Posts
+### 📚 What’s New
 <ul>
   {% for post in site.posts limit:3 %}
     <li><a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}</li>
@@ -36,7 +36,7 @@ New to Puget Sound Analytics? Begin with the [Starter Guide]({{ site.baseurl }}/
 
 ---
 
-## Stay Connected  
+### Stay Connected  
 
 ✨ I share fresh ideas here first — but you can also catch me on [LinkedIn](https://www.linkedin.com/in/jennchin/) for professional updates, or on [GitHub](https://github.com/SheHasMoxie) for the behind-the-scenes experiments that feed my storytelling practice.  
 
