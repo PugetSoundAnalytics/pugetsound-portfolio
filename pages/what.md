@@ -19,7 +19,7 @@ permalink: /what/
   <div style="flex: 1;">  
     <p>This framework ensures insights don’t just sit in dashboards; they drive action, alignment, and impact.</p>
     <H4><strong>Tool Agnostic</strong></H4>  
-    <p><em>Data → Any sources - messy or managed</em></p>
+    <p><em>Data → Any sources; messy or managed</em></p>
     <p><em>Pattern → Visuals and analysis that reveal meaning</em></p>
     <p><em>Narrative → Stories, briefs, and journeys that connect</em></p>
     <p><em>Decision → Clear calls to action leaders use</em></p>
