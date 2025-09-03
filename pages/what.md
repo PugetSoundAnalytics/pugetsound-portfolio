@@ -107,7 +107,7 @@ Explore examples of how I’ve helped teams move from data to decisions that sti
   <!-- Case Study 1 -->
   <div class="case-card">
     <h3>Outdoor Adventures Funnel Conversion</h3>
-    <p><strong>Challenge:</strong> Marketing teams couldn’t trust funnel conversion data due to duplicate visitor counts across buckets.</p>
+    <p><strong>Challenge:</strong> Marketing teams couldn’t trust muddy funnel conversion data.</p>
     <p><strong>Impact:</strong> Restored confidence in conversion metrics, revealed accurate engagement signals, and enabled tailored messaging.</p>
     <a href="/case-study/online-vacation-funnel/">Read More →</a>
   </div>
