@@ -2,7 +2,6 @@
 layout: default
 title: Case Study: Outdoor Retailer Adventures Funnel Conversion
 description: Discover why storytelling transforms data from static numbers into narratives that drive clarity and confident decisions.
-permalink: /vacation-funnel/
 ---
 
 # Case Study: Outdoor Retailer Adventures Funnel Conversion
