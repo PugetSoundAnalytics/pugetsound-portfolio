@@ -5,7 +5,7 @@ description: Discover why storytelling transforms data from static numbers into 
 permalink: /why/
 ---
 
-## Every Number Has a Story
+## Why I Care: Every Number Has a Story
 
 Behind every data point is a narrative waiting to be uncovered. Dashboards can show you what’s happening, but only stories reveal *why it matters* and *what to do next*.  
 
