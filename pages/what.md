@@ -18,11 +18,11 @@ permalink: /what/
   </picture>
   <div style="flex: 1;">  
     <p>This framework ensures insights don’t just sit in dashboards; they drive action, alignment, and impact.</p>
-    <p><strong>Tool Agnostic</strong></p>
+    <H4><strong>Tool Agnostic</strong></H4>  
     <p><em>Data → Any sources - messy or managed</em></p>
-    <p><em>Pattern → Visuals + analysis that reveal meaning</em></p>
-    <p><em>Narrative → Briefs, stories, and journeys that connect</em></p>
-    <p><em>Decision → Clear calls to action leaders can use</em></p>
+    <p><em>Pattern → Visuals and analysis that reveal meaning</em></p>
+    <p><em>Narrative → Stories, briefs, and journeys that connect</em></p>
+    <p><em>Decision → Clear calls to action leaders use</em></p>
   </div>
 </div>
 
@@ -54,7 +54,7 @@ permalink: /what/
   <div class="psa-card">
     <h3>Impact &amp; Innovation</h3>
     <ul>
-      <li><strong>Executive-Ready Outputs:</strong> Insights packaged for leadership decisions.</li>
+      <li><strong>Executive-Ready:</strong> Insights packaged for leadership decisions.</li>
       <li><strong>Human + AI:</strong> Blending automation with context for clarity at speed.</li>
     </ul>
   </div>
@@ -62,6 +62,6 @@ permalink: /what/
 
 ## Case Studies  
 Data doesn't create change - **people do**.  
-Here’s how I’ve partnered with teams to turn stories into decisions that matter.
+Explore examples of how I’ve helped teams move from data to decisions that stick.
 
 [The stories behind the insights →](/why/){: .cta-button }
