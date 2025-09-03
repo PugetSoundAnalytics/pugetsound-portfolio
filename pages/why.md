@@ -7,16 +7,16 @@ permalink: /why/
 
 ## Why I Care: Data Illuminates Human Stories
 
-Behind every data point is a story. Dashboards show what’s happening, but stories reveal *why it matters* and *what to do next*.  
+Every data point holds a story. Dashboards show what’s happening; stories reveal *why it matters* and *what to do next*.  
 
-Data storytelling transforms raw numbers into clarity, empowers decisions, and reveals opportunities spreadsheets can’t.  
+Data storytelling transforms raw numbers into clarity, empowers confident decisions, and uncovers opportunities spreadsheets miss.  
 
 Here, you’ll find explorations on:  
 - **Narrative Craft** — Turning insights into action.  
 - **Humanized Data** — Making numbers relatable and memorable.  
-- **Analytics in the Wild** — Lessons and reflections from practice.  
+- **Wild Analytics** — Lessons and reflections from practice.  
 
-This is where I explore, experiment, and share the stories behind the numbers.
+This is where I explore, experiment, and share the stories behind numbers.
 
 ---
 
