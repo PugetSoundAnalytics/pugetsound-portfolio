@@ -31,7 +31,7 @@ When I’m not uncovering data stories, I embrace the serendipitous dance of acr
 
 ### 👋Let’s Connect
 
-Curious about how your data can tell a clearer story? Let’s connect.  
+Ready to see how your data can tell a clearer story? Let’s connect.  
 
 Whether you’re exploring analytics projects, want to elevate your rhythm of business updates, or just want to chat about creativity and complexity—I’d love to hear from you:
 
