@@ -13,7 +13,7 @@ I help organizations transform data chaos into clarity—uncovering patterns, cr
 - **[What](/what/)** – See how I deliver: Data → Pattern → Narrative → Decision.
 - **[Why](/why/)** – See how reflections and case studies shape a philosophy of insights leaders actually use.  
 
-Because dashboards don’t change *your* business - *stories* do
+Because another dashboard won’t change *your* business - *stories* do
 
 If you’re looking for **data stories that resonate, AI-enhanced insights that accelerate clarity, and a partner who thrives at the intersection of analytics and creativity**—you’re in the right place.  
 
