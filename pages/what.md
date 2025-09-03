@@ -64,4 +64,73 @@ permalink: /what/
 Data doesn't create change - **people do**.  
 Explore examples of how I’ve helped teams move from data to decisions that stick.
 
+<style>
+  .case-studies-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  .case-card {
+    background: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .case-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  }
+  .case-card h3 {
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+    font-size: 1.2rem;
+  }
+  .case-card p {
+    margin: 0.25rem 0;
+    color: #333;
+    font-size: 0.95rem;
+  }
+  .case-card a {
+    display: inline-block;
+    margin-top: 0.75rem;
+    font-weight: bold;
+    color: #007a87; /* your PSA teal */
+    text-decoration: none;
+  }
+  .case-card a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<div class="case-studies-grid">
+
+  <!-- Case Study 1 -->
+  <div class="case-card">
+    <h3>Outdoor Adventures Funnel Conversion</h3>
+    <p><strong>Challenge:</strong> Marketing teams couldn’t trust funnel conversion data due to duplicate visitor counts across buckets.</p>
+    <p><strong>Impact:</strong> Restored confidence in conversion metrics, revealed accurate engagement signals, and enabled tailored messaging.</p>
+    <a href="/case-study/online-vacation-funnel/">Read More →</a>
+  </div>
+
+  <!-- Case Study 2 -->
+  <div class="case-card">
+    <h3>[]</h3>
+    <p></p>
+    <p></p>
+    <a href="#"></a>
+  </div>
+
+  <!-- Case Study 3 -->
+  <div class="case-card">
+    <h3>[]</h3>
+    <p></p>
+    <p></p>
+    <a href="#"></a>
+  </div>
+
+</div>
+
 [The stories behind the insights →](/why/){: .cta-button }
