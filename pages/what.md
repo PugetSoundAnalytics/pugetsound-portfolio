@@ -17,8 +17,11 @@ permalink: /what/
       style="width: 100%; max-width: 375px; height: auto; border: none; align-self: flex-start;">
   </picture>
   <div style="flex: 1;">  
-    <p><em>Data → Pattern → Narrative → Decision</em></p>
-    <p>The Data → Decision loop ensures insights don’t just sit in dashboards — they drive action, alignment, and impact.</p>
+    <p>The Data → Decision loop framework ensures insights don’t just sit in dashboards — they drive action, alignment, and impact.</p>
+    <p><em>Data → Any source - messy or managed</em></p>
+    <p><em>Pattern → Visuals & Analysis</em></p>
+    <p><em>Narrative → Bullets, briefs, and Journeys</em></p>
+    <p><em>Decision → Clear call to action</em></p>
   </div>
 </div>
 
