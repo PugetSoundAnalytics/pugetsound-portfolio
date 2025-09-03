@@ -9,10 +9,10 @@ permalink: /what/
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
   <picture>
     <source 
-      srcset="{{ '/assets/images/Data Journey.svg' | relative_url }}" 
+      srcset="{{ '/assets/images/Data Journey.png' | relative_url }}" 
       media="(prefers-color-scheme: dark)">
     <img 
-      src="{{ '/assets/images/Data Journey.svg' | relative_url }}" 
+      src="{{ '/assets/images/Data Journey.png' | relative_url }}" 
       alt="Data → Pattern → Narrative → Decision (continuous loop)"
       style="width: 100%; max-width: 285px; height: auto; border: none; align-self: flex-start;">
   </picture>
