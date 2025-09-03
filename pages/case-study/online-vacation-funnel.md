@@ -15,7 +15,7 @@ As part of online marketing analytics, I was asked to transform this data into a
 
 During my initial investigation, I discovered the same visitors were being counted in multiple funnel buckets, inflating totals and muddying the story of engagement. I partnered with the data science group to refine their extraction methodology, providing detailed visitor-level examples and running iterative tests.  
 
-Once duplicate counts were cleansed and visitor bucketing was refined and validated, I turned my attention to communication. I designed interactive visualizations where any two data snapshots could be compared — making it easy to see whether, and where, visitors moved up or down the funnel via Sankey flows and pivot views.  
+Once duplicate counts were cleansed and visitor bucketing was refined and validated, I turned my attention to communication. I designed interactive visualizations where any two data snapshots could be compared (with the ability to add intermediate snapshots between those dates) — making it easy to see whether, and where, visitors moved up or down the funnel via Sankey flows and pivot views.  
 
 ## Solution  
 - Rebuilt adventure funnel data snapshots for accuracy.  
