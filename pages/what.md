@@ -7,15 +7,6 @@ permalink: /what/
 
 ## What I Deliver: The Data → Decision Loop  
 <div style="display: flex; align-items: flex-start; gap: 1.5rem; flex-wrap: wrap;">
-  <picture>
-    <source 
-      srcset="{{ '/assets/images/Data Journey.svg' | relative_url }}" 
-      media="(prefers-color-scheme: dark)">
-    <img 
-      src="{{ '/assets/images/Data Journey.svg' | relative_url }}" 
-      alt="Data → Pattern → Narrative → Decision (continuous loop)"
-      style="width: 100%; max-width: 300px; height: auto; border: none; align-self: flex-start;">
-  </picture>
   <div style="flex: 1;">  
     <h3>Frameworks I Deliver</h3>
     <h4>Clarity & Insight</h4>
@@ -39,6 +30,15 @@ permalink: /what/
     <p><em>Data → Pattern → Narrative → Decision</em></p>
     <p>The Data → Decision loop ensures insights don’t just sit in dashboards — they drive action, alignment, and impact.</p>
   </div>
+    <picture>
+    <source 
+      srcset="{{ '/assets/images/Data Journey.svg' | relative_url }}" 
+      media="(prefers-color-scheme: dark)">
+    <img 
+      src="{{ '/assets/images/Data Journey.svg' | relative_url }}" 
+      alt="Data → Pattern → Narrative → Decision (continuous loop)"
+      style="width: 100%; max-width: 300px; height: auto; border: none; align-self: flex-start;">
+  </picture>
 </div>
 
 ## Case Studies  
