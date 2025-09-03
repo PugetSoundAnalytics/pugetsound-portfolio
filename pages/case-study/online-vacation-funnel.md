@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Case Study: Outdoor Adventures Funnel Conversion"
-description: "How I uncovered duplicate visitor counts and rebuilt a conversion funnel visualization that restored confidence in marketing insights."
+description: "Duplicate visitor counts and muddy conversion reporting rebuilt to restore confidence in marketing insights."
 permalink: /case-study/online-vacation-funnel/
 ---
 
