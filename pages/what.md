@@ -113,10 +113,10 @@ Explore examples of how I’ve helped teams move from data to decisions that sti
   </div>
   <!-- Case Study 2 -->
   <div class="case-card">
-    <h3> </h3>
-    <p></p>
-    <p></p>
-    <a href="#"></a>
+    <h3>BI Transition Rescue During Acquisition</h3>
+    <p><strong>Challenge:</strong> Parent BI team treated the transition as a light lift, assuming “one SKU = simple.”</p>
+    <p><strong>Impact:</strong> Patient safety protected, financial trust restored, stakeholder confidence rebuilt</p>
+    <a href="/case-study/bi-transition-rescue/">Read More →</a>
   </div>
 </div>
 #  
