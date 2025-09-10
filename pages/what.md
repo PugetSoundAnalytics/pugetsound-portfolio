@@ -114,11 +114,11 @@ Explore examples of how I’ve helped teams move from data to decisions that sti
   <!-- Case Study 2 -->
   <div class="case-card">
     <h3>BI Transition Rescue During Acquisition</h3>
-    <p><strong>Challenge:</strong> Parent BI team treated the transition as a light lift, assuming “one SKU = simple.”</p>
-    <p><strong>Impact:</strong> Patient safety protected, financial trust restored, stakeholder confidence rebuilt</p>
+    <p><strong>Challenge:</strong> Parent BI team underestimated complexity, assuming “one SKU = simple.”</p>
+    <p><strong>Impact:</strong> Protected patient safety, restored financial trust, and rebuilt stakeholder confidence</p>
     <a href="/case-study/bi-transition-rescue/">Read More →</a>
   </div>
-</div>
-#  
+</div>  
+---
   
 [The stories behind the insights →](/why/){: .cta-button }
