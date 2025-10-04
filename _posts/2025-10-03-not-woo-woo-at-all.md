@@ -3,7 +3,7 @@ layout: post
 title: "From Skeptic to Surprised: Discernment via Vision Board"
 description: "I thought vision boards were woo-woo. Then I tried one as a birthday art project—and discovered a powerful tool for clarity, alignment, and decision-making."
 date: 2025-10-03 00:00:00 -0000
-published: false
+published: true
 excerpt: "What started as a playful art project to spark creativity turned into one of the most practical tools I’ve ever used for discernment. Here’s how a vision board shifted from collage to compass."
 image:
   path: /assets/images/blog/birthday-vision-board.jpg
